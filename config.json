@@ -3,13 +3,18 @@
         "version": "1.0.0",
         "pipeline_version": "1.0.0"
     },
+    "parents": {
+        "survey": {
+            "location": "https://github.com/IDEMSInternational/rapidpro-survey-templates/archive/refs/tags/v1.1.0.zip"
+        }
+    },
     "flows_outputbasename": "parenttext_all",
     "output_split_number": 1,
     "sheet_names": {
         "five_day_ux_sheets" : "1doFll5_L6URN8Chc9TODblvjiDHIh-5lDY1jhtIQtGc",
         "sri_lanka_sheets": "1ouJbQePkXY43yBR7caxCsM2_pr-I3eUtok6HWnrKiXw",
         "T_content": "1hcH8pFdiHZN0UvZgyv3Zht9ARBTx-VXhNBI2o8L7fHU",
-        "N_onboarding_data": "1CbYaJasLJ9SRtg0QxfCeP6nYrcsD5gJkMZo8c1aLebY",
+        "N_onboarding_data": "1pr4lcv-Q1gG-izi5kWVmzhwEidq-nxKciRb9MO60cnU",
         "T_onboarding": "1Sl0Jl_N4cGQi2INmE_EnX_aYUMUrUB6cKbuWVPzirtY",
         "C_ltp_activities": "1xxMu4Gx5Hwi8Psj6wOeQSASSO3ftXTA-rn3yh3eu3Yk",
         "C_modules_child": "1z3ziwvbzcO2l-Em__3vkZM9gBj3cPKUffDLIVrnopQs",
@@ -28,7 +33,7 @@
     },
     "sources": {
         "flow_definitions": {
-            "parent_sources": [],
+            "parent_sources": ["survey.flow_definitions"],
             "format": "sheets",
             "subformat": "google_sheets",
             "files_list": [
