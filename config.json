@@ -102,13 +102,6 @@
                     "location": "183GPNaVxxuAXNh7WZpXEe2FdIszhuZfA3BLuZCf-feY"
                  }
             ]
-        },
-        "goals_api": {
-            "format": "sheets",
-            "subformat": "google_sheets",
-            "files_list": [
-                ""
-            ]
         }
     },
     "steps": [
