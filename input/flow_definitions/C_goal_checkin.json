@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "goal_checkin_teen_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "goal_checkin_teen_data",
+        "data_model": "GoalCheckInModel",
+        "operation": "",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "goal_checkin_child_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "goal_checkin_child_data",
+        "data_model": "GoalCheckInModel",
+        "operation": "",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "goal_checkin_all_ages_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "goal_checkin_all_ages_data",
+        "data_model": "GoalCheckInModel",
+        "operation": "",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "goal_checkin_child_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "goal_checkin_data",
+        "data_model": "",
+        "operation": "concat",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      }
+    ],
+    "goal_checkin_child_data": [
+      {
+        "ID": "relation_c",
+        "intro_pre_goal": "Here is a question to help you get started on your course:",
+        "intro_post_goal": "Well done for completing the lessons on improving your relationship with your child. Let’s see how things have changed since you started:",
+        "pre_question": "empty",
+        "question": "In the past 24 hours, did you spend at least 5 minutes of one-on-one time with your child?",
+        "options": "no|yes",
+        "add_qr": "yes",
+        "negative": "no",
+        "positive": "yes",
+        "improvement": ">",
+        "response.pre_goal_positive": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+        "response.pre_goal_negative": "That is okay. You will learn more about the importance of spending time with your child in this course.",
+        "response.post_goal_improved_positive": "Congratulations! 🎉You’ve made progress since you’ve started ParentText. Your effort is working!",
+        "response.post_goal_improved_negative": "Congratulations on making some progress. It’s great that you’re spending time with your child. ",
+        "response.post_goal_static_positive": "You were already putting in the effort to spend one-on-one time with your child before ParentText. It’s great that you’re able to keep up the excellent effort!",
+        "response.post_goal_static_negative": "I am sorry to hear that you were unable to spend one-on-one time with your child. 💛",
+        "response.post_goal_worsened_positive": "Time with your child is so important. Though you are still doing great, you have reported that spending one-on-one time together has become more challenging since you first began ParentText.",
+        "response.post_goal_worsened_negative": "I am sorry to hear that you were unable to spend more time with your child. 💛",
+        "post_goal_positive_follow_up_question": "How is one-on-one time going?",
+        "post_goal_positive_follow_up_options": "Good|So-so|Bad",
+        "follow_up_positive_options": "Good",
+        "follow_up_negative_options": "So-so|Bad",
+        "follow_up_positive_message": "Excellent! New courses will be released on this channel in a few months to help you keep up the great progress!",
+        "follow_up_negative_message": "Sorry to learn this. ",
+        "troubleshooting.question": "What did you find difficult about spending time with your child ? 🔑",
+        "troubleshooting.problems.1.pb": "I did not have enough time.",
+        "troubleshooting.problems.1.tip": "It can be hard to find time during your day, with work, chores, and everything else.\n\n✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.\n\nUse the time that you and your girls and boys are already sharing, like going to the school, picking them up, waking them up or saying goodbye to sleep. \n\nType {PLAY} for a fun activity suggestion",
+        "troubleshooting.problems.2.pb": "My child did not want to spend one-on-one time with me.",
+        "troubleshooting.problems.2.tip": "😔 It can hurt when your child does not want to spend one-on-one time with you.\n\n💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?\n\n💙 Try again so that your child can see that you care and want to spend this time with them.",
+        "troubleshooting.problems.3.pb": "All my children wanted to do was watch T.V. or play with a gadget.",
+        "troubleshooting.problems.3.tip": "📺Children often want to spend time watching T.V. or playing with a gadget.\n\n❓ You could watch or play on the gadget with them.\n\n💚Caring about their interests is a great start!\n\n🌷 Once you begin spending time together you can suggest another activity.\n\nType {PLAY} for a fun activity suggestion.",
+        "troubleshooting.problems.4.pb": "My child wanted to do activities that I could not do.",
+        "troubleshooting.problems.4.tip": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.\n\n🏁 You could describe what they are doing like a sports announcer.\n\nYou can also express enthusiasm by clapping, smiling, or offering a thumbs-up. \n\n\n💛 Praise them while they do it!",
+        "troubleshooting.problems.5.pb": "My child chose a competitive activity. I won and then they got angry.",
+        "troubleshooting.problems.5.tip": "⚽ Competitive games can be hard for your girls and boys(and adults!) if they don’t like losing.\n\n🏆 When they have calmed down, talk with your boys and girls about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\nType {PLAY} for a fun activity suggestion. 💡",
+        "troubleshooting.problems.6.pb": "All my girls and boys wanted one-on-one time at the same time.",
+        "troubleshooting.problems.6.tip": "🔴 It can be difficult to spend one-on-one time with each of your boys or girls when you have more than one\n🌱 If possible, you can ask an adult or older sibling to look after the your other girls and boys while you spend one-on-one time with your child.\n\n⏰ Think of when it would be easier to spend one-on-one time with each of your boys and girls.\n\n💛 You can also spend one-on-one time with all of your girls and boys at once!If you do, make sure all are able to participate in one-on-one time. \n\nType {PLAY} for a fun activity suggestion for a group of girls and boys. 💡",
+        "troubleshooting.problems.7.pb": "Prefer not to say.",
+        "troubleshooting.problems.7.tip": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child.",
+        "troubleshooting.problems.8.pb": "",
+        "troubleshooting.problems.8.tip": "",
+        "conclusion": "Thank you for providing a progress update. You can revisit this course any time in the Main Menu by typing {MENU}. ",
+        "attached_single_doc": "https://docs.google.com/document/d/1tV68Lh57xuN-2hUjGkdVhRrXYeENnm2VDz47LVA9F04"
+      }
+    ],
+    "goal_checkin_teen_data": [],
+    "goal_checkin_all_ages_data": []
+  }
+}

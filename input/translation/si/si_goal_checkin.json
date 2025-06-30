@@ -1,0 +1,428 @@
+[
+  {
+    "SourceText": "Here is a question to help you get started on your course:",
+    "text": "පාඨමාලාව ආරම්භ කිරීමට ඔබට උපකාර කිරීම සඳහා ප්‍රශ්නයක් මෙන්න:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "ඒකට කමක් නැහැ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In the past 24 hours, did you spend at least 5 minutes of one-on-one time with your child?",
+    "text": "පසුගිය පැය 24 තුළ, ඔබ ඔබේ දරුවා සමඟ අවම වශයෙන් මිනිත්තු 5 ක්වත් දරුවා වෙනුවෙන් වෙන්වූ කාලයක් ගත කළාද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is okay. You will learn more about the importance of spending time with your child in this course.",
+    "text": "ඒකට කමක් නැහැ. මෙම පාඨමාලාවේදී ඔබේ දරුවා සමඟ කාලය ගත කිරීමේ වැදගත්කම ගැන ඔබ තව දුරටත් ඉගෙන ගන්න පුලුවන්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+    "text": "එය අහන්න ලැබීම සතුටක්! 🎉 ඔබේ දරුවා සමඟ කාලය ගත කිරීම ඔවුන් සමඟ හොඳ සම්බන්ධතාවයක් ගොඩනඟා ගැනීමට හොඳ ක්‍රමයක්!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "සමාවෙන්න. ඔබ පැවසූදේ මට අපැහැදිලියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What did you find difficult about spending time with your child ? 🔑",
+    "text": "ඔබේ දරුවා සමඟ කාලය ගත කිරීමට ඔබට අපහසු වූයේ ඇයි?🔑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to find time during your day, with work, chores, and everything else.",
+    "text": "රැකියා කටයුතු ‚එදිනෙදා කටයුතු සහ අනෙකුත් සියලුමදේ නිසා ඔබට කාලය සොයාගැනීම අපභසු විය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
+    "text": "✨ඔබට සෑම දිනකම විනාඩි 5 ක් වෙන් කළ හැකි වේලාවක් ගැන සිතන්න. ඔබට ගෙදර දොරේ වැඩ පවා එකට කළ හැකි සෙල්ලමක් බවට පත් කළ හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Use the time that you and your girls and boys are already sharing, like going to the school, picking them up, waking them up or saying goodbye to sleep. ",
+    "text": "ඔබ සහ ඔබේ දරැවන් දැනටමත් බෙදා ගන්නා කාලය, පාසලට යාම, ඔවුන් රැගෙන යාම, ඔවුන් අවදි කිරීම හෝ නින්දට යාම වැනි භාවිතා කරන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion",
+    "text": "විනෝදජනක ක්‍රියාකාරකම් දැනගැනීම සඳහා {PLAY} ලෙස ටයිප් කරන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔 It can hurt when your child does not want to spend one-on-one time with you.",
+    "text": "😔 ඔබේ දරුවා ඔබ සමඟ කාලය ගත කිරීමට අකමැති වූ විට එය ඔබව රිදවිය හැකිය.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Think to yourself: When are they more open to you? In the morning? Right before bedtime?",
+    "text": "💡ඔබම සිතන්න: ඔවුන් ඔබට වඩාත් විවෘත වන්නේ කවර වෙලාවටද? උදේ කාලයේදී? නින්දට යාමට පෙර?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Try again so that your child can see that you care and want to spend this time with them.",
+    "text": "💙 ඔබේ දරුවා ගැන ඔබ සැලකිලිමත් වන බවත්, මෙම කාලය ඔවුන් සමඟ ගත කිරීමට කැමති බවත් පෙන්වීමට නැවත උත්සාහ කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺Children often want to spend time watching T.V. or playing with a gadget.",
+    "text": "📺ළමයින් බොහෝ විට රූපවාහිනිය නැරඹීම හෝ ජංගම දුරකථන හෝ රූපවාහිනිය වැනි උපකරණයක් සමඟ සෙල්ලම් කරමින් කාලය ගත කිරීමට කැමතියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ You could watch or play on the gadget with them.",
+    "text": "❓ ඔබට ඔවුන් සමඟ සෙල්ලම් කිරීමට හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚Caring about their interests is a great start!",
+    "text": "💚ඔවුන්ගේ රුචිකත්වයන් ගැන සැලකිලිමත් වීම හොඳ ආරම්භයකි!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Once you begin spending time together you can suggest another activity.",
+    "text": "🌷 ඔබ එකට කාලය ගත කිරීමට පටන් ගත් පසු තවත් ක්‍රියාකාරකමක් යෝජනා කළ හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion.",
+    "text": "විනෝදජනක ක්‍රියාකාරකම් දැනගැනීම සඳහා {PLAY} ලෙස ටයිප් කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ If your child wants to do things that are too difficult for you to do, you could watch them.",
+    "text": "☀️ඔබේ දරුවා,  ඔබට කරන්න අමාරු සෙල්ලම් කරනවානම් , ඔබට දරුවා කරන දෙය බලා සිටිය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 You could describe what they are doing like a sports announcer.",
+    "text": "🏁 ක්‍රීඩා නිවේදකයෙකු මෙන් ඔවුන් කරන දේ ඔබට විස්තර කළ හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also express enthusiasm by clapping, smiling, or offering a thumbs-up. ",
+    "text": "අත්පුඩි ගසමින්, සිනාසෙමින් හෝ මාපටැඟිල්ල ඉහළට ඔසවා තැබීමෙන් ඔබට උද්යෝගය ප්‍රකාශ කළ හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Praise them while they do it!",
+    "text": "💛 ඔවුන් එය කරන අතරතුර ඔවුන්ව අගය කරන්න!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Competitive games can be hard for your girls and boys(and adults!) if they don’t like losing.",
+    "text": "⚽ ඔබේ දරුවන් (සහ වැඩිහිටියන්!) පරාජය වීමට අකමැති නම් තරඟකාරී සෙල්ලම් ඔවුන්ට අපහසු විය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 When they have calmed down, talk with your boys and girls about what winning well and losing well might look like.",
+    "text": "🏆 ඔවුන් සන්සුන් වූ පසු, ජයග්‍රහණය කිරීම සහ පරාජය දරාගැනීම කෙබඳුදැයි ඔබේ දරුවන් සමඟ කතා කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Suggest other activities that you can do to work together instead of against each other.",
+    "text": "📝 එකිනෙකාට එරෙහිව වැඩ කිරීම වෙනුවට එකට වැඩ කිරීමට ඔබට කළ හැකි වෙනත් ක්‍රියාකාරකම් යෝජනා කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion. 💡",
+    "text": "විනෝදජනක ක්‍රියාකාරකම් දැනගැනීම සඳහා {PLAY} ලෙස ටයිප් කරන්න. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 It can be difficult to spend one-on-one time with each of your boys or girls when you have more than one",
+    "text": "🔴 ඔබට එක් දරුවෙකුට වඩා සිටින විට එක් එක් දරුවා සමඟ තනි තනිව කාලය ගත කිරීම අපහසු විය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 If possible, you can ask an adult or older sibling to look after the your other girls and boys while you spend one-on-one time with your child.",
+    "text": "🌱 හැකි නම්, ඔබ එක් දරුවෙකු සමඟ කාලය ගත කරන අතරතුර, ඔබේ අනෙක් දරුවන් රැකබලා ගැනීමට වැඩිහිටියෙකු හෝ වැඩිමහල් සහෝදරයෙකුගෙන්  හෝ සහෝදරියකුගෙන්  ඉල්ලා සිටිය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Think of when it would be easier to spend one-on-one time with each of your boys and girls.",
+    "text": "⏰ ඔබේ දරුවන් සමඟ තනි තනිව, ඔවුන්ට වෙන්වූ කාලයක් ගත කිරීමට පහසු වන්නේ කවදාදැයි සිතා බලන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 You can also spend one-on-one time with all of your girls and boys at once!If you do, make sure all are able to participate in one-on-one time. ",
+    "text": "💛 ඔබට ඔබේ සියලුම දරුවන් සමඟ එකවර කාලය ගත කළ හැකියි! ඔබ එසේ කරන්නේ නම්, සියල්ලන්ටම එකිනෙකා වෙනුවෙන් වෙන්වූ කාලයක් හිමි වන බවට වග බලා ගන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {PLAY} for a fun activity suggestion for a group of girls and boys. 💡",
+    "text": "විනෝදජනක ක්‍රියාකාරකම් දැනගැනීම සඳහා {PLAY} ලෙස ටයිප් කරන්න. 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child.",
+    "text": "💛 ඔබේ දරුවා සමඟ තනි තනිව කාලය ගත කිරීමට ඔබට අපහසු වීම පිළිබඳව කණගාටුයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for completing the lessons on improving your relationship with your child. Let’s see how things have changed since you started:",
+    "text": "ඔබේ දරුවාගේ සංවර්ධනයට සහාය වීම සඳහා ඔබේ ඉලක්කය සම්පූර්ණ කිරීම ඉතා හොඳයි. ඔබ මෙම ඉලක්කය ආරම්භ කළ දා සිට ඔබ වෙනස් වී ඇති ආකාරය බලමු:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend more time with your child. 💛",
+    "text": "ඔබේ දරුවා සමඟ වැඩි කාලයක් ගත කිරීමට නොහැකි වීම ගැන මට කණගාටුයි. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am sorry to hear that you were unable to spend one-on-one time with your child. 💛",
+    "text": "ඔබේ දරුවා සමඟ, දරුවා වෙනුවෙන් වෙන්වූ කාලයක් ගත කිරීමට නොහැකි වීම ගැන මට කණගාටුයි. 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations on making some progress. It’s great that you’re spending time with your child. ",
+    "text": "යම් ප්‍රගතියක් ලබා ගැනීම ගැන සුභ පැතුම්. ඔබ ඔබේ දරුවා සමඟ කාලය ගත කිරීම බොහොම හොඳයි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You were already putting in the effort to spend one-on-one time with your child before ParentText. It’s great that you’re able to keep up the excellent effort!",
+    "text": "ParentText (මාපියකරණය) පටන් ගැනීමට පෙර සිටම ඔබේ දරුවා සමඟ, දරුවා වෙනුවෙන් වෙන්වූ කාලයක් ගත කිරීමට ඔබ උත්සාහ කරමින් සිටියා. ඔබට එම විශිෂ්ට උත්සාහය දිගටම පවත්වාගෙන යාමට හැකිවීම සතුටක්!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Time with your child is so important. Though you are still doing great, you have reported that spending one-on-one time together has become more challenging since you first began ParentText.",
+    "text": "ඔබේ දරුවා සමඟ කාලය ගත කිරීම ඉතා වැදගත්. ඔබ හොඳින් කටයුතු කළත්, ParentText (මාපියකරණය) ආරම්භ කළ දා සිට තවමත් දරුවා වෙනුවෙන් වෙන්වූ කාලයක් ගත කිරීම වඩාත් අභියෝගාත්මක වී ඇති බව ඔබ වාර්තා කර ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Congratulations! 🎉You’ve made progress since you’ve started ParentText. Your effort is working!",
+    "text": "සුභ පැතුම්! 🎉ඔබ ParentText (මාපියකරණය) ආරම්භ කළ දා සිට මේ වනවිට ප්‍රගතියක් ලබා ඇත. ඔබේ උත්සාහය සාර්ථකයි!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to get more help?",
+    "text": "ඔබට තවත් උදව් ලබා ගැනීමට අවශ්‍යද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for providing a progress update. You can revisit this course any time in the Main Menu by typing {MENU}.",
+    "text": "ප්‍රගතිය පිළිබඳව තොරතුරු ලබා දීම ගැන ස්තූතියි. ඔබට ඕනෑම වේලාවක ප්‍රධාන මෙනුවේ {MENU} ලෙස ටයිප් කිරීමෙන් මෙම පාඨමාලාවට නැවත පැමිණිය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How is one-on-one time going?",
+    "text": "දරුවා වෙනුවෙන් වෙන්වූ කාලය ගත කිරීම ඔබට දැනෙන්නේ කොහොමද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! New courses will be released on this channel in a few months to help you keep up the great progress!",
+    "text": "විශිෂ්ටයි! හොඳ ප්‍රගතියක් පවත්වා ගැනීමට ඔබට උපකාර කිරීම සඳහා මාස කිහිපයකින් මෙම වට්ස්ඇප් සමූහයෙන් නව පාඨමාලා නිකුත් කරනු ලැබේ!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry to learn this. ",
+    "text": "ඒ ගැන කණගාටුයි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "no",
+    "text": "නැහැ",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ඔව්",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I did not have enough time.",
+    "text": "මට ප්‍රමාණවත් කාලයක් නොතිබුණි.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child did not want to spend one-on-one time with me.",
+    "text": "මගේ දරුවා මා සමඟ වෙන්වූ කාලයක් ගත කිරීමට අකමැතිය.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my children wanted to do was watch T.V. or play with a gadget.",
+    "text": "මගේ දරුවන්ට කිරීමට අවශ්‍ය වූයේ රූපවාහිනිය නැරඹීම හෝ ජංගම දුරකථන වැනි උපකරණයක් සමඟ සෙල්ලම් කිරීම පමණි.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child wanted to do activities that I could not do.",
+    "text": "මගේ දරුවාට මට කරන්න බැරි ක්‍රියාකාරකම් කරන්න උවමනා විය.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "My child chose a competitive activity. I won and then they got angry.",
+    "text": "මගේ දරුවා තරඟකාරී ක්‍රියාකාරකමක් තෝරා ගත්තා. එයින් මම දිනූ නිසා තරහා වුණා.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "All my girls and boys wanted one-on-one time at the same time.",
+    "text": "මගේ  දරුවන් සියලු  දෙනාටම එකමවර මා සමඟ කතා කිරීමට අවශ්‍ය විය.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say.",
+    "text": "කියන්න අකමැතියි.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "ඔව්",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "නැහැ",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Good",
+    "text": "හොඳයි",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "So-so",
+    "text": "මධ්‍යස්ථයි",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Bad",
+    "text": "නරකයි",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no",
+    "text": "නැහැ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "ඔව්",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i did not have enough time.",
+    "text": "මට ප්‍රමාණවත් කාලයක් නොතිබුණි.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child did not want to spend one-on-one time with me.",
+    "text": "මගේ දරුවා මා සමඟ වෙන්වූ කාලයක් ගත කිරීමට අකමැතිය.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my children wanted to do was watch t.v. or play with a gadget.",
+    "text": "මගේ දරුවන්ට අවශ්‍ය වූයේ රූපවාහිනිය නැරඹීම හෝ ජංගම දුරකථන වැනි උපකරණයක් සමඟ සෙල්ලම් කිරීම පමණි.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child wanted to do activities that i could not do.",
+    "text": "මගේ දරුවාට මට කරන්න බැරි ක්‍රියාකාරකම් කරන්න ඕන වුණා.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "my child chose a competitive activity. i won and then they got angry.",
+    "text": "මගේ දරුවා තරඟකාරී ක්‍රියාකාරකමක් තෝරා ගත්තා. එයින් මම දිනූ නිසා තරහා වුණා.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "all my girls and boys wanted one-on-one time at the same time.",
+    "text": "මගේ  දරුවන් සියලු  දෙනාටම එකමවර මා සමඟ කතා කිරීමට අවශ්‍ය විය.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say.",
+    "text": "කියන්න අකමැතියි.",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "good",
+    "text": "හොඳයි",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "so-so",
+    "text": "මධ්‍යස්ථයි",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "bad",
+    "text": "නරකයි",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

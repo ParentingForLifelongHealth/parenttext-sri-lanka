@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "joining_triggers_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "JoiningTriggerModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      }
+    ],
+    "joining_triggers_data": [
+      {
+        "ID": "testers",
+        "triggers": "demo",
+        "groups": "",
+        "cap": "",
+        "location": "",
+        "variables.1.name": "",
+        "variables.1.value": "",
+        "variables.2.name": "",
+        "variables.2.value": "",
+        "variables.3.name": "",
+        "variables.3.value": ""
+      }
+    ]
+  }
+}

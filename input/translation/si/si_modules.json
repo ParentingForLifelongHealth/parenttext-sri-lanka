@@ -1,0 +1,2048 @@
+[
+  {
+    "SourceText": "Today’s lesson is about spending one-on-one time with @fields.child_nickname 😃",
+    "text": "අද පාඩම @fields.child_nickname සමඟ, දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගත කිරීම ගැනයි.😃",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Today’s lesson is about spending one-on-one time with your child 😃",
+    "text": "අද පාඩම ඔබේ දරුවා සමඟ, දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගත කිරීම ගැනයි.😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It will also build trust and respect, and support girls and boys in learning new things. ✨",
+    "text": "එය විශ්වාසය හා ගෞරවය ගොඩනඟන අතර, අලුත් දේවල් ඉගෙන ගැනීමට දරුවන්ට සහාය වනු ඇත.✨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's do a quiz!",
+    "text": "අපි හරිද වැරදිද ප්‍රශ්න ටිකක් කරමු!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "True or False: When I spend special time with my boy or girl, I need to have a plan. I need to know what we will do together.",
+    "text": "හරිද වැරදිද: මම මගේ දරුවා සමඟ වෙන්කරගත් කාලයක් ගත කරන විට, මට සැලැස්මක් තිබිය යුතුයි. අපි එකතුවෙලා කරන්නේ කුමක්දැයි මම දැන සිටිය යුතුයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Oops! Good Try!",
+    "text": "👀 ඔබගේ පිළිතුර වැරදියි! නමුත්‚ හොඳ උත්සාහයක්!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧸 You do not have to plan an activity. Your boy or girl can lead! Let them choose as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you.",
+    "text": "🧸ඔබ ක්‍රියාකාරකමක් සැලසුම් කිරීමට අවශ්‍ය නැහැ. ඔබේ දරුවාටම නායකත්වය දෙන්න පුලුවන්! එය ආරක්ෂිත වනතාක් කල් ඔවුන්ට තෝරා ගැනීමට ඉඩ දෙන්න. මෙය ඔවුන්ගේ විශ්වාසය වැඩි කරන අතර ඔවුන් ඔබ සමඟ ගතකරන කාලය සතුටින් සිටීමට ඉඩ සලසයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 You are right! ",
+    "text": "🎉 ඔබ නිවැරදියි! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧸 Your child can choose the activity as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you.",
+    "text": "🧸 ඔබේ දරුවාටම ක්‍රියාකාරකම තෝරා ගත හැකියි. එය ආරක්ෂිත විය යුතුයි. මෙය ඔවුන්ගේ විශ්වාසය වැඩි කරන අතර ඔවුන් ඔබ සමඟ ගතකරන කාලය සතුටින් සිටීමට ඉඩ සලසයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "සමාවෙන්න. ඔබ පැවසූදේ මට අපැහැදිලියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’ve completed 25% of this skill! Press NEXT to continue.",
+    "text": "ඔබ මෙම කුසලතාවෙන් 25%ක් සම්පූර්ණ කර ඇත! ඉදිරියට යාමට ඊළඟ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_SON_5} and his mother, {F1_MOTHER}, are playing dress up during one-on-one time. Let’s see how they have fun together:",
+    "text": "{F1_SON_5} සහ ඔහුගේ මව, {F1_MOTHER}, දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළ ඇඳුම් ඇඳීමේ සෙල්ලමක යෙදී සිටිති. ඔවුන් එකට විනෝද වන්නේ කෙසේදැයි බලමු:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_MOTHER}: I have 5 minutes of one-on-one time to spend with you, {F1_SON_5}. What would you like to do?",
+    "text": "{F1_MOTHER}: මට ඔයා වෙනුවෙන් විනාඩි 5ක් ඔයත් එක්ක ගත කරන්න පුලුවන්, {F1_SON_5}. ඔයා මොනවා කරන්නද කැමති?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_SON_5}: I want to play dress up!",
+    "text": "{F1_SON_5}: මට ඇඳුම් අඳින සෙල්ලම කරන්න ඕන!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_MOTHER}: Wonderful idea, {F1_SON_5}! I see you are taking out the yellow handkerchief with blue stripes on it.",
+    "text": "{F1_MOTHER}: අපූරු අදහසක්, {F1_SON_5}! නිල් ඉරි තියෙන කහ පාට ලේන්සුව ඔයා එළියට ගන්නවා මම දැක්කා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_SON_5}: Mom, it’s for you.",
+    "text": "{F1_SON_5}: අම්මේ, ඒක ඔයාට.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_MOTHER}: Thank you, I love it!",
+    "text": "{F1_MOTHER}: ස්තූතියි, මම ඒකට කැමතියි!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_SON_5}: Wear it Mom!",
+    "text": "{F1_SON_5}: ඒක ඇඳගන්න අම්මේ!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F1_MOTHER}: Look how good you are at getting dressed by yourself!",
+    "text": "{F1_MOTHER}: බලන්න ඔයා තනියම ඇඳුම් අඳින්න කොච්චර දක්ෂද කියලා!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️",
+    "text": "✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’ve completed 50% of this skill! Press NEXT to continue.",
+    "text": "ඔබ මෙම කුසලතාවෙන් 50%ක් සම්පූර්ණ කර ඇත! ඉදිරියට යාමට ඊළඟ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️",
+    "text": "✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’ve completed 75% of this skill! Press NEXT to continue.",
+    "text": "ඔබ මෙම කුසලතාවෙන් 75%ක් සම්පූර්ණ කර ඇත! ඉදිරියට යාමට ඊළඟ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's OK! If you don't have time today, set some time aside tomorrow.",
+    "text": "ඒකට කමක් නෑ! අද ඔයාට වෙලාවක් නැත්නම්, හෙට දවෙසන් පොඩි වේලාවක් වෙන් කරගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅ 100%",
+    "text": "✅✅✅✅ 100%",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, Improve my Relationship with My Child. ⭐",
+    "text": "ඔබ \"මගේ දරුවා සමඟ මගේ සම්බන්ධතාවය වැඩිදියුණු කරගැනීම\" පාඨමාලාවේ @fields.c_n_mod පාඩම් වලින් @(fields.c_n_mod_compl +1) සම්පූර්ණ කර ඇත. ⭐",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "3️⃣ *STAY - Focus on @fields.child_nickname*",
+    "text": "3️⃣ *රැඳී සිටින්න - @fields.child_nickname ගැන අවධානයෙන් රැඳී සිටින්න *",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "📺 Switch off the TV, put aside phones, and remove distractions.",
+    "text": "📺 රූපවාහිනිය නිවා දමන්න, දුරකථන පසෙකින් තබන්න, ඒවගේම අවධානය වෙනතකට යොමු කරන දේ ඉවත් කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Look at @fields.child_nickname. Nod or say “I see” to show you are really paying attention. ",
+    "text": "👀 @fields.child_nickname දෙස බලන්න. ඔබ සැබවින්ම අවධානය යොමු කරන බව පෙන්වීමට හිස සොලවා හෝ \"ඇත්තද?\" වැනි වදන් කියන්න. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💛 Accept your boy or girl and avoid judgement.",
+    "text": "💛 ඔබේ දරුවා පිළිගන්න. විනිශ්චයෙන් වළකින්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Respond to your girl or boy when they communicate with you. @fields.child_nickname may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them.",
+    "text": "💡 @fields.child_nickname‚ ඔබ සමඟ සන්නිවේදනය කරන විට ඔවුන්ට ප්‍රතිචාර දක්වන්න. ඔබේ දරුවා, ඔබ සමඟ සන්නිවේදනය කිරීමට, අභිනයන්, සම්පූර්ණ වාක්‍ය, චලනයන් සහ ශබ්ද භාවිතා කළ හැකියි. එයින් පෙන්නුම් කරන්නේ ඔබ ඔවුන් කෙරෙහි සැබවින්ම අවධානය යොමු කරන බවයි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "3️⃣ *STAY - Focus on Your child*",
+    "text": "3️⃣ *රැඳී සිටින්න - ඔබේ දරුවා කෙරෙහි අවධානයෙන් රැඳී සිටින්න *",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Look at Your child. Nod or say “I see” to show you are really paying attention. ",
+    "text": "👀 ඔබේ දරුවා දෙස බලන්න. ඔබ සැබවින්ම අවධානය යොමු කරන බව පෙන්වීමට හිස සොලවා හෝ \"ඇත්තද?\" වැනි වදන් කියන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Respond to your girl or boy when they communicate with you. Your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them.",
+    "text": "💡 ඔබේ දරුවා‚ ඔබ සමඟ සන්නිවේදනය කරන විට ඔවුන්ට ප්‍රතිචාර දක්වන්න. ඔබේ දරුවා, ඔබ සමඟ සන්නිවේදනය කිරීමට, අභිනයන්, සම්පූර්ණ වාක්‍ය, චලනයන් සහ ශබ්ද භාවිතා කළ හැකියි. එයින් පෙන්නුම් කරන්නේ ඔබ ඔවුන් කෙරෙහි සැබවින්ම අවධානය යොමු කරන බවයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending special time with @fields.child_nickname will make them feel valued and loved. 💙",
+    "text": "@fields.child_nickname සමඟ, දරුවා වෙනුවෙන් වෙන්කරගත් කාලයක් ගත කිරීමෙන්, ඔවුන්ට වටිනාකමක් සහ ආදරයක් දැනෙනු ඇත. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Spending special time with your child will make them feel valued and loved. 💙",
+    "text": "ඔබේ දරුවා සමඟ, දරුවා වෙනුවෙන් වෙන්කරගත් කාලයක් ගත කිරීමෙන් ඔවුන්ට වටිනාකමක් සහ ආදරයක් දැනෙනු ඇත. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣ three tips to remember when spending one-on-one time with @fields.child_nickname",
+    "text": "@fields.child_nickname සමඟ දරුවා වෙනුවෙන් වෙන්කරගත් කාලය ගත කරන විට මතක තබා ගත යුතු උපදෙස් තුනක් 3️⃣ ඉගෙන ගැනීමට Play ▶️ ඔබන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ DAY - Try to do it every day",
+    "text": "1️⃣*දිනය - සෑම දිනකම එය කිරීමට උත්සාහ කරන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ PLAY - Let them choose the activity",
+    "text": "2️⃣ * ක්‍රියාකාරකම - ඔවුන්ට ක්‍රියාකාරකම තෝරා ගැනීමට ඉඩ දෙන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ STAY - Focus on your boy or girl",
+    "text": "3️⃣ *රැඳී සිටින්න - ඔබේ දරුවා ගැන අවධානයෙන් රැඳී සිටින්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣ three tips to remember when spending one-on-one time with your child",
+    "text": "ඔබේ දරුවා සමඟ දරුවා වෙනුවෙන් වෙන්කරගත් කාලය ගත කිරීමේදී මතක තබා ගත යුතු උපදෙස් 3ක් ඉගෙන ගැනීමට PLAY ▶️ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Here are three tips to remember when spending one-on-one time with @fields.child_nickname: DAY, PLAY, and STAY.",
+    "text": "3️⃣ @fields.child_nickname සමඟ දරුවා වෙනුවෙන් වෙන්කරගත් කාලය ගත කරන විට මතක තබා ගත යුතු උපදෙස් තුනක් මෙන්න: දිනය, ක්‍රියාකාරකම, සහ රැඳී සිටීම.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY.",
+    "text": "3️⃣ ඔබේ දරුවා සමඟ එකින් එක කාලය ගත කිරීමේදී මතක තබා ගත යුතු උපදෙස් තුනක් මෙන්න: දිනය, ක්‍රියාකාරකම, සහ රැඳී සිටීම.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ *DAY - Try to do it every day*",
+    "text": "1️⃣*දිනය - සෑම දිනකම එය කිරීමට උත්සාහ කරන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Spend 5 minutes (or more!) with @fields.child_nickname each day.",
+    "text": "⏰ @fields.child_nickname සමඟ සෑම දිනකම මිනිත්තු 5ක් (හෝ ඊට වැඩි කාලයක්!) ගත කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⏰ Spend 5 minutes (or more!) with your child each day.",
+    "text": "⏰ ඔබේ දරුවා සමඟ සෑම දිනකම මිනිත්තු 5ක් (හෝ ඊට වැඩි කාලයක්!) ගත කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ *PLAY - Let them choose the activity*",
+    "text": "2️⃣ * ක්‍රියාකාරකම - ඔවුන්ට ක්‍රියාකාරකම තෝරා ගැනීමට ඉඩ දෙන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Ask to spend time with @fields.child_nickname.",
+    "text": "⏰ @fields.child_nickname සමඟ කාලය ගත කිරීමට ඉල්ලා සිටින්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⚽ Let them choose what to do or talk about.",
+    "text": "⚽ කළ යුතු දේ හෝ කතා කළ යුතු දේ තෝරා ගැනීමට ඔවුන්ට ඉඩ දෙන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈Try different activities together.",
+    "text": "🎈එකතුවී විවිධ ක්‍රියාකාරකම් උත්සාහ කර බලන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Have fun!",
+    "text": "😃 විනෝද වන්න!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Ask to spend time with your child.",
+    "text": "⏰ ඔබේ දරුවා සමඟ කාලය ගත කිරීමට ඉල්ලා සිටින්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity! ⭐ Try to spend at least 5 minutes of quality one-on-one time with @fields.child_nickname every day. It will make such a difference! Do you have time to do it today? ⏰",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! ⭐ සෑම දිනකම @fields.child_nickname සමඟ අවම වශයෙන් විනාඩි 5ක දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගුණාත්මකව ගත කිරීමට උත්සාහ කරන්න. එය ලොකු වෙනසක් ඇති කරයි! අදම එය කිරීමට ඔබට කාලය තිබේද? ⏰",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Home Activity! ⭐ Try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make such a difference! Do you have time to do it today? ⏰",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! ⭐ සෑම දිනකම ඔබේ දරුවා සමඟ අවම වශයෙන් විනාඩි 5ක දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගුණාත්මකව ගත කිරීමට උත්සාහ කරන්න. එය ලොකු වෙනසක් ඇති කරයි! අදම එය කිරීමට ඔබට කාලය තිබේද? ⏰",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Use the tips you have learnt today and have fun! Spending one-on-one time with @fields.child_nickname is a great way to form a positive relationship with them. 💙",
+    "text": "නියමයි! අද ඔබ ඉගෙන ගත් උපදෙස් භාවිතා කර විනෝද වන්න! @fields.child_nickname සමඟ වෙන් කරගත් කාලයක් ගත කිරීම, ඔවුන් සමඟ ධනාත්මක සම්බන්ධතාවයක් ගොඩනඟා ගැනීමට හොඳ ක්‍රමයක්. 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Great! Use the tips you have learnt today and have fun! Spending one-on-one time with your child is a great way to form a positive relationship with them. 💙",
+    "text": "නියමයි! අද ඔබ ඉගෙන ගත් උපදෙස් භාවිතා කර විනෝද වන්න! ඔබේ දරුවා සමඟ වෙන් කරගත් කාලයක් ගත කිරීම, ඔවුන් සමඟ ධනාත්මක සම්බන්ධතාවයක් ගොඩනඟා ගැනීමට හොඳ ක්‍රමයක්. 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed this lesson! You have learnt the importance of spending one-on-one time with @fields.child_nickname.",
+    "text": "ඔබ මෙම පාඩම සම්පූර්ණ කර ඇත! ඔබේ @fields.child_nickname වෙන් කරගත් කාලයක් ගත කිරීමේ වැදගත්කම ඔබ ඉගෙන ගෙන තිබෙනවා.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have completed this lesson! You have learnt the importance of spending one-on-one time with your child.",
+    "text": "ඔබ මෙම පාඩම සම්පූර්ණ කර ඇත! ඔබේ දරුවා සමඟ වෙන් කරගත් කාලයක් ගත කිරීමේ වැදගත්කම ඔබ ඉගෙන ගෙන තිබෙනවා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Well done for the effort of learning how to improve your relationship with @fields.child_nickname. It shows you really care! 💙",
+    "text": "✨ @fields.child_nickname සමඟ ඔබේ සම්බන්ධතාවය වැඩිදියුණු කර ගන්නේ කෙසේදැයි ඉගෙන ගැනීමට ඔබ ගත් උත්සාහය ඉතා හොඳයි. එය දරුවා ගැන ඔබගේ සැබෑම සැලකිලිමත් බව පෙන්නුම් කරනවා! 💙",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✨Well done for the effort of learning how to improve your relationship with your child. It shows you really care! 💙",
+    "text": "✨ ඔබේ දරුවා සමඟ ඔබේ සම්බන්ධතාවය වැඩිදියුණු කර ගන්නේ කෙසේදැයි ඉගෙන ගැනීමට ඔබ ගත් උත්සාහය ඉතා හොඳයි. එය දරුවා ගැන ඔබගේ සැබෑම සැලකිලිමත් බව පෙන්නුම් කරනවා! 💙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃How did the message above make you feel?",
+    "text": "😃ඉහත පණිවිඩය ඔබට හැඟුණේ කෙසේද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷We all feel better when we are praised.",
+    "text": "🌷අපව අගය කරන විට අපි හැමෝටම සතුටක් දැනෙනවා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ How you praise your child is important. Praise should be specific, immediate, and genuine. ",
+    "text": "ඔබ ඔබේ දරුවාව අගය කරන ආකාරය වැදගත් වේ. ප්‍රශංසාව නිශ්චිත, ක්ෂණික සහ අව්‍යාජ විය යුතුය.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes.",
+    "text": "🌱 මිනිත්තු 2 ක් නිහඬව තනිවම සෙල්ලම් කිරීම වැනි කුඩාම දේවල් සඳහා ඔබේ දරුවාව අගය කිරීමෙන් ඔබට එය ආරම්භ කළ හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s check in on {F3_MOTHER} and her son, {F3_SON_4}, to see how she praises him during one-on-one time.",
+    "text": "{F3_MOTHER} සහ ඇගේ පුතා {F3_SON_4} ගැන පොඩ්ඩක් බලමු. දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී, ඇය දරුවාව අගය කරන්නේ කොහොමද කියලා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: You found a striped sock and one with dots. Let’s find the socks that match those two.",
+    "text": "{F3_MOTHER}: ඔයාට ඉරි තියෙන මේස් එකකුයි තිත් තියෙන මේස් එකකුයි හම්බුනා. දැන් ඒ දෙකට ගැලපෙන අනිත් මේස් හොයමු.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating.",
+    "text": "{F3_MOTHER}: තව මේස් එකක්! මේක සුදු පාටයි. ගැලපෙන එකම හොයාගන්න ලේසි නෑ. ඒක එපා වෙන්නත් පුළුවන්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: You are being very patient and looking very hard, {F3_SON_4}. Good for trying.",
+    "text": "{F3_MOTHER}: ඔයා හරිම ඉවසිලිවන්තයි, හරිම උත්සහවන්තයි., {F3_SON_4}. ඒ නිසා ගොඩක් හොඳයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: You found matching socks of the same pattern! Well done for looking, {F3_SON_4}!",
+    "text": "{F3_MOTHER}: ඔයාට එකම විදියේ ගැලපෙන මේස් හම්බුනා! පුතා හොඳට බලලා තියෙනවා, {F3_SON_4}!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ SAY IT",
+    "text": "2️⃣ එය කියන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Praise them when you see them do something you like.",
+    "text": "🏆 ඔවුන් ඔබ කැමති දෙයක් කරන බව ඔබ දුටු විට ඔවුන්ව අගය කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Tell them specifically what they have done well.",
+    "text": "✅ ඔවුන් හොඳින් කළ දේ විශේෂකර ඔවුන්ට කියන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "\r🎉 Be enthusiastic and really mean it!",
+    "text": "🎉 උද්යෝගිමත් වන්න‚ ඒ බව සැබවින්ම පෙන්වන්න!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "\r🔄 This means they are more likely to do it again.",
+    "text": "🔄 මේ අනුව ඔවුන් එය නැවත කිරීමට වැඩි ඉඩක් ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 That's OK! Sometimes things take time. You can review this lesson in the Main Menu at any time. At the end of the day, think of all of the positive things that happened - this makes it easier to point them out. ☀️ With time, praise will come easily to you.",
+    "text": "💚 ඒක හරි! සමහර වෙලාවට සමහර දේවල් වලට කාලයක් යනවා. ඔබට ඕනෑම වේලාවක ප්‍රධාන මෙනුවේ මෙම පාඩම නැවත බැලිය හැකියි. දවස අවසානයේදී, සිදු වූ සියලු ධනාත්මක දේවල් ගැන සිතන්න - මෙය අගය කළ හැකි තැන් හඳුනා ගැනීම පහසු කරයි. ☀️ කාලයත් සමඟ, අගය කිරීම ඔබට පහසුවනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done! ⭐ You have now learnt the four steps to Praise. ",
+    "text": "හොඳින් කළා! ⭐ දැන් ඔබ අගය කිරීමේ පියවර හතර ඉගෙන ගෙන ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏅Praising @fields.child_nickname when they behave in the expected way will make them want to behave that way more often. ",
+    "text": "🏅 @fields.child_nickname අපේක්ෂිත ආකාරයෙන් හැසිරෙන විට අගය කිරීමෙන් ඔවුන් නිතර නිතර ඒ ආකාරයෙන් හැසිරීමට කැමති වනු ඇත. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐It also creates a positive and loving relationship between you and @fields.child_nickname.",
+    "text": "⭐ එය ඔබ සහ @fields.child_nickname අතර ධනාත්මක සහ ආදරණීය සම්බන්ධතාවයක් ද ඇති කරයි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Begin by praising @fields.child_nickname during one-on-one time.",
+    "text": "දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී @fields.child_nickname ව අගය කිරීමෙන් එය ආරම්භ කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🏅Praising your child when they behave in the expected way will make them want to behave that way more often. ",
+    "text": "🏅 ඔබේ දරුවා අපේක්ෂිත ආකාරයෙන් හැසිරෙන විට අගය කිරීමෙන් ඔවුන් නිතර නිතර ඒ ආකාරයෙන් හැසිරීමට කැමති වනු ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐It also creates a positive and loving relationship between you and your child.",
+    "text": "⭐ එය ඔබ සහ ඔබේ දරුවා අතර ධනාත්මක සහ ආදරණීය සම්බන්ධතාවයක් ද ඇති කරයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Begin by praising your child during one-on-one time.",
+    "text": "දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී ඔබේ දරුවාව අගය කිරීමෙන් එය ආරම්භ කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "True or False: The way you praise @fields.child_nickname does not matter because any kind of praise is effective.",
+    "text": "හරිද වැරදිද: ඔබ @fields.child_nickname ව අගය කරන ආකාරය වැදගත් නොවේ, මන්ද ඕනෑම ආකාරයක අගය කිරීමක් ඵලදායී වේ.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "True or False: The way you praise your child does not matter because any kind of praise is effective.",
+    "text": "හරිද වැරදිද: ඔබ ඔබේ දරුවාව අගය කරන ආකාරය වැදගත් නොවේ, මන්ද ඕනෑම ආකාරයක අගය කිරීමක් ඵලදායී වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Children who are praised for their effort and good behaviour will want to keep behaving well and keep receiving praise. ",
+    "text": "⭐ තම උත්සාහය සහ යහපත් හැසිරීම සඳහා අගය කිරීම් ලබන දරුවන්ට තවදුරටත් හොඳින් හැසිරෙන්නට සහ අගය කිරීම් ලැබීමට අවශ්‍ය වනු ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 4️⃣ the four tips for giving @fields.child_nickname praise.",
+    "text": "@fields.child_nickname ව අගය කිරීම සඳහා උපදෙස් හතර 4️⃣ ඉගෙන ගැනීමට Play ▶️ ඔබන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ SEE IT",
+    "text": "1️⃣ එය බලන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ REPEAT IT",
+    "text": "3️⃣ එය නැවත කරන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ KEEP IT POSITIVE",
+    "text": "4️⃣ ධනාත්මකව සිටින්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 4️⃣ the four tips for giving your child praise.",
+    "text": "ඔබේ දරුවාව අගය කිරීම සඳහා උපදෙස් හතර 4️⃣ ඉගෙන ගැනීමට Play ▶️ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ Here are 4 simple tips for praising @fields.child_nickname:",
+    "text": "4️⃣ @fields.child_nickname ව අගය කිරීම සඳහා සරල උපදෙස් 4ක් මෙන්න:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "4️⃣ Here are 4 simple tips for praising your child:",
+    "text": "4️⃣ ඔබේ දරුවාව අගය කිරීම සඳහා සරල උපදෙස් 4ක් මෙන්න:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Look for anything good or helpful @fields.child_nickname does.",
+    "text": "👀 @fields.child_nickname කරන හොඳ හෝ ප්‍රයෝජනවත් දෙයක් සොයන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⏸ Pause and really notice when they are doing something positive.",
+    "text": "⏸ඔවුන් ධනාත්මක දෙයක් කරන විට මදක් නැවතී සැබවින්ම නිරීක්ෂණය කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Look for anything good or helpful your child does.",
+    "text": "👀 ඔබේ දරුවා කරන හොඳ හෝ ප්‍රයෝජනවත් දෙයක් සොයන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Look for something to praise @fields.child_nickname for every day.",
+    "text": "🌷 සෑම දිනකම @fields.child_nickname ව අගය කිරීමට යමක් සොයන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "\r🔶 Even if it is something really small, keep doing it.",
+    "text": "🔶 ඒක ඇත්තටම පොඩි දෙයක් වුණත්, දිගටම කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Look for something to praise your child for every day.",
+    "text": "🌷 සෑම දිනකම ඔබේ දරුවාව අගය කිරීමට යමක් සොයන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Make sure you focus on something @fields.child_nickname has done well.",
+    "text": "💡 @fields.child_nickname හොඳින් කර ඇති දෙයක් කෙරෙහි අවධානය යොමු කිරීමට වග බලා ගන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "\r🙂You can show your praise with a big smile and words. You can also clap, hug, or tickle @fields.child_nickname to show you appreciate them.",
+    "text": "🙂ඔබට සිනහවකින් සහ වචන වලින් ඔබේ අගය කිරීම පෙන්විය හැකියි. @fields.child_nickname අගය කරන බව පෙන්වීමට ඔබට අත්පුඩි ගැසීමට, වැළඳ ගැනීමට හෝ කිති කවන්නටද හැකියි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "\r☀️ Keeping it positive reminds @fields.child_nickname that you notice them and care.",
+    "text": "☀️ ධනාත්මකව සිටීමෙන් @fields.child_nickname ගැන ඔබ සැලකිලිමත් වන බවත්, ඔවුන්ට රැකවරණය සලසන බවත් ඔබේ දරුවාට මතක් කර දෙයි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 Make sure you focus on something your child has done well.",
+    "text": "💡 ඔබේ දරුවා හොඳින් කළ දෙයක් කෙරෙහි අවධානය යොමු කිරීමට වග බලා ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "\r🙂You can show your praise with a big smile and words. You can also clap, hug, or tickle your child to show you appreciate them.",
+    "text": "🙂ඔබට සිනහවකින් සහ වචන වලින් ඔබේ අගය කිරීම පෙන්විය හැකියි. ඔබේ දරුවා අගය කරන බව පෙන්වීමට ඔබට අත්පුඩි ගැසීමට, වැළඳ ගැනීමට හෝ කිති කවන්නටද හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "\r☀️ Keeping it positive reminds your child that you notice them and care.",
+    "text": "☀️ ධනාත්මකව සිටීමෙන් ඔබේ දරුවා ගැන ඔබ සැලකිලිමත් වන බවත්, ඔවුන්ට රැකවරණය සලසන බවත් ඔබේ දරුවාට මතක් කර දෙයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Home Activity today is to try to praise @fields.child_nickname during one-on-one time. Can you do it today?",
+    "text": "අද ඔබේ නිවසේදී ක්‍රියාකාරකම වන්නේ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවේදී @fields.child_nickname ව අගය කිරීමට උත්සාහ කිරීමයි. ඔබට අද එය කළ හැකිද?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your Home Activity today is to try to praise your child during one-on-one time. Can you do it today?",
+    "text": "අද ඔබේ නිවසේදී ක්‍රියාකාරකම වන්නේ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවේදී ඔබේ දරුවාව අගය කිරීමට උත්සාහ කිරීමයි. ඔබට අද එය කළ හැකිද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Amazing! 🎉 Try to praise @fields.child_nickname at least once during one-on-one Time. You can also praise @fields.child_nickname at other times during the day. Notice how they respond.",
+    "text": "නියමයි.! 🎉 දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවේදී අවම වශයෙන් එක් වරක්වත් @fields.child_nicknameව අගය කිරීමට උත්සාහ කරන්න. දවස පුරා වෙනත් වේලාවලද @fields.child_nickname ව අගය කළ හැකියි. ඔවුන් ප්‍රතිචාර දක්වන ආකාරය ගැනද සැලකිලිමත් වන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Amazing! 🎉 Try to praise your child at least once during one-on-one Time. You can also praise your child at other times during the day. Notice how they respond.",
+    "text": "නියමයි.! 🎉 දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවේදී අවම වශයෙන් එක් වරක්වත් ඔබේ දරුවාව අගය කිරීමට උත්සාහ කරන්න. දවස පුරා වෙනත් වේලාවලද ඔබේ දරුවාව අගය කළ හැකියි. ඔවුන් ප්‍රතිචාර දක්වන ආකාරය ගැනද සැලකිලිමත් වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This lesson is about creating routines for spending one-on-one time with @fields.child_nickname. 🔄",
+    "text": "මෙම පාඩම @fields.child_nickname සමඟ \"දරුවා වෙනුවෙන් වෙන් කරගත් කාලය\" ගත කිරීම සඳහා දින චර්යාවන් නිර්මාණය කිරීම ගැනයි. 🔄",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "This lesson is about creating routines for spending one-on-one time with your child. 🔄",
+    "text": "මෙම පාඩම ඔබේ දරුවා සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් කාලය ගත කිරීම සඳහා දින චර්යාවන් නිර්මාණය කිරීම ගැනයි. 🔄",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER} includes one-on-one time with her granddaughter as part of her bedtime routine, {F2_DAUGHTER_3}. Let’s see how they do it together!",
+    "text": "{F2_GRANDMOTHER} ඇගේ දින චර්යාවේ නින්දට යන අවස්ථාවේ කොටසක් ලෙස ඇගේ මිණිබිරිය සමඟ “දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක්” යොදා ගනියි, {F2_DAUGHTER_3}. ඔවුන් එකතු වී එය කරන්නේ කෙසේදැයි බලමු!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: I am so happy to see you playing quietly with your blocks, {F2_DAUGHTER_3}. When I come back, it will be time to get ready for bed. When you are ready for bed, we can have 5 minutes of One-on-One Time together.",
+    "text": "{F2_GRANDMOTHER}: මට හරිම සතුටුයි, දුව බ්ලොක් වලින් සද්ද නැතිව සෙල්ලම් කරනවා {F2_DAUGHTER_3}. මම ආපහු එද්දි, නිදාගන්න වෙලාව ඒවි. ඔයා නිදාගන්න ලෑස්ති වුනාම, මට ඒකට ඔයා වෙනුවෙන් විනාඩි 5 ක් ගත කරන්න පුලුවන්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_DAUGHTER_3}: Okay!",
+    "text": "{F2_DAUGHTER_3}: හරි!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: Time to get ready for bed. First, let’s get you a nice body wash.",
+    "text": "{F2_GRANDMOTHER}: දැන් නිදාගන්න ලෑස්ති වෙන්න වෙලාව. ඉස්සර වෙලාම, ඇඟ සෝදගමු.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: You were so well-behaved in the bath, {F2_DAUGHTER_3}. Now it is time to put on your Pajamas .",
+    "text": "{F2_GRANDMOTHER}: ඔයා ඇඟ සෝදන වෙලාවේ ගොඩක් හොඳින් හිටියා, {F2_DAUGHTER_3}. දැන් පිජාමා එක ඇඳගන්න වෙලාව.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: Well done for getting in your pajamas all by yourself, {F2_DAUGHTER_3}! Now you brush your teeth. Make sure you get the ones in the back of your mouth!",
+    "text": "{F2_GRANDMOTHER}: ඔයා තනියම පිජාමා එක ඇඳගත්තා. ගොඩක් හොඳයි, {F2_DAUGHTER_3}! දැන් දත් මදින්න. කටේ ඇතුලේ දතුත් හොදින් මදින්න!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: You were so cooperative while getting ready for bed! Now we have 5 minutes of one-on-one time to spend together. What would you like to do?",
+    "text": "{F2_GRANDMOTHER}: නින්දට යන්න ලෑස්ති ​​වෙනකොට ඔයා හරිම හොඳට හිටියා! දැන් අපිට එකට ගත කරන්න විනාඩි 5ක් තියෙනවා. ඔයා මොනවද කරන්න කැමති?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_DAUGHTER_3}: Yay! Can you read me my favourite storybook?",
+    "text": "{F2_DAUGHTER_3}: යේ! අත්තම්මාට මගේ ආසම කතා පොත කියවන්න පුළුවන්ද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDMOTHER}: “The end….” Such a lovely story! Goodnight my darling girl. I love you very much.",
+    "text": "{F2_GRANDMOTHER}: \"අවසානය....\" හරිම ලස්සන කතාවක්! සුභ රාත්‍රියක් මගේ දුවේ. මම ඔයාට ගොඩක් ආදරෙයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_DAUGHTER_3}: Goodnight, Grandma",
+    "text": "{F2_DAUGHTER_3}: සුභ රාත්‍රියක්, අත්තම්මා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️",
+    "text": "✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’ve completed 33% of this skill! Press NEXT to continue.",
+    "text": "ඔබ මෙම කුසලතාවෙන් 33% ක් සම්පූර්ණ කර ඇත! ඉදිරියට යාමට ඊළඟ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️",
+    "text": "✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’ve completed 66% of this skill! Press NEXT to continue.",
+    "text": "ඔබ මෙම කුසලතාවෙන් 66% ක් සම්පූර්ණ කර ඇත! ඉදිරියට යාමට ඊළඟ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅ 100%",
+    "text": "✅✅✅ 100%",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done! ⭐ You have now learnt the three steps of creating daily routines with your child. ",
+    "text": "හොඳයි! ⭐ ඔබේ දරුවා සමඟ දින චර්යාවන් නිර්මාණය කිරීමේ පියවර තුන ඔබ දැන් ඉගෙන ගෙන ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "To continue building a positive relationship with @fields.child_nickname, let’s make one-on-one time a part of the routine. ",
+    "text": "@fields.child_nickname සමඟ ධනාත්මක සම්බන්ධතාවයක් ගොඩනඟා ගැනීම දිගටම කරගෙන යාමට, \"දරුවා වෙනුවෙන් වෙන් කරගත් කාලය\" දින චර්‍යාවේ කොටසක් බවට පත් කරගමු. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You can use the tips for one-on-one routines to create other daily routines with @fields.child_nickname. ",
+    "text": "@fields.child_nickname සමඟ වෙනත් දින චර්යාවන් සකසා ගැනීමටත්, ඔබට මෙම “දරුවා වෙනුවෙන් වෙන් කරගත් චර්යාවන්” සඳහා ලබාදෙන උපදෙස් භාවිතා කළ හැකියි. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Creating daily routines with @fields.child_nickname will also help them feel more secure, safe and cooperative. 🔑\r\r Help them plan time for resting, meals, chores, school, and sleep. ⏰",
+    "text": "@fields.child_nickname සමඟ දින චර්යාවන් සකසා ගැනීම ඔවුන්ට වඩාත්, ආරක්ෂිත සහ සහයෝගී බවක් දැනීමටත් උපකාරී වේ. 🔑විවේක ගැනීම, ආහාර ගැනීම, ගෙදර දොරේ වැඩ, පාසල සහ නින්ද සඳහා කාලය සැලසුම් කිරීමට ඔවුන්ට උදව් කරන්න. ⏰",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "To continue building a positive relationship with your child, let’s make one-on-one time a part of the routine. ",
+    "text": "ඔබේ දරුවා සමඟ ධනාත්මක සම්බන්ධතාවයක් ගොඩනඟා ගැනීම දිගටම කරගෙන යාමට, දරුවා වෙනුවෙන් වෙන් කරගත් කාලය දින චර්යාවේ කොටසක් බවට පත් කරගමු. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can use the tips for one-on-one routines to create other daily routines with your child. ",
+    "text": "ඔබේ දරුවා සමඟ වෙනත් දින චර්යාවන් සකසා ගැනීමටත්, ඔබට මෙම “දරුවා වෙනුවෙන් වෙන් කරගත් චර්යාවන්” සඳහා ලබාදෙන උපදෙස් භාවිතා කළ හැකියි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating daily routines with your child will also help them feel more secure, safe and cooperative. 🔑\r\r Help them plan time for resting, meals, chores, school, and sleep. ⏰",
+    "text": "ඔබේ දරුවා සමඟ දින චර්යාවන් සකසා ගැනීම ඔවුන්ට වඩාත්, ආරක්ෂිත සහ සහයෝගී බවක් දැනීමටත් උපකාරී වේ. 🔑විවේක ගැනීම, ආහාර ගැනීම, ගෙදර දොරේ වැඩ, පාසල සහ නින්ද සඳහා කාලය සැලසුම් කිරීමට ඔවුන්ට උදව් කරන්න. ⏰",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣ three tips to create a daily routine around one-on-one time with @fields.child_nickname",
+    "text": "@fields.child_nickname සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවක දින චර්යාවක් නිර්මාණය කිරීම සඳහා උපදෙස් තුනක් 3️⃣ ඉගෙන ගැනීමට Play ▶️️ ඔබන්න",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ BE A TEAM",
+    "text": "1️⃣ කණ්ඩායමක් වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ BE CONSISTENT",
+    "text": "2️⃣ ස්ථාවර වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ PRAISE, PRAISE, PRAISE",
+    "text": "3️⃣ අගය කරන්න, අගය කරන්න, අගය කරන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣ three tips to create a daily routine around one-on-one time with your child",
+    "text": "ඔබේ දරුවා සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවක දෛනික චර්යාවක් නිර්මාණය කිරීම සඳහා උපදෙස් 3️⃣ක් ඉගෙන ගැනීමට Play ▶️️ ඔබන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣three tips to create a daily routine around 1-on-1 time with @fields.child_nickname",
+    "text": "@fields.child_nickname සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවක දින චර්යාවක් නිර්මාණය කිරීම සඳහා උපදෙස් 3️⃣ක් ඉගෙන ගැනීමට Play ▶️️ ඔබන්න",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 3️⃣three tips to create a daily routine around 1-on-1 time with your child",
+    "text": "ඔබේ දරුවා සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවක දෛනික චර්යාවක් නිර්මාණය කිරීම සඳහා උපදෙස් 3️⃣ක් ඉගෙන ගැනීමට Play ▶️️ ඔබන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Here are three tips on how to create routines with @fields.child_nickname.",
+    "text": "3️⃣ @fields.child_nickname සමඟ දින චර්යාවන් නිර්මාණය කරන්නේ කෙසේද යන්න පිළිබඳව උපදෙස් තුනක් මෙන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "3️⃣ Here are three tips on how to create routines with your child.",
+    "text": "3️⃣ ඔබේ දරුවා සමඟ චර්යාවන් නිර්මාණය කරන්නේ කෙසේද යන්න පිළිබඳ උපදෙස් තුනක් මෙන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈 Talk to @fields.child_nickname about what they want their routines to look like.",
+    "text": "🎈 @fields.child_nicknameට ඔවුන්ගේ දින චර්යාව  කෙබඳු විය යුතුද යන්න ගැන කතා කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✨ Did you know that @fields.child_nickname is more likely to follow routines when they help to set them? Try it out! 💚",
+    "text": "✨ @fields.child_nickname දින චර්යාවන් සැකසීමට උදව් කරන විට ඔවුන් ඒවා අනුගමනය කිරීමට වැඩි ඉඩක් ඇති බව ඔබ දැන සිටියාද? එය උත්සාහ කරන්න! 💚",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🎈 Talk to your child about what they want their routines to look like.",
+    "text": "🎈 ඔබේ දරුවාට ඔවුන්ගේ දින චර්යාව කෙබඳු විය යුතුද යන්න ගැන කතා කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Did you know that your child is more likely to follow routines when they help to set them? Try it out! 💚",
+    "text": "✨ ඔබේ දරුවා දින චර්යාවන් සැකසීමට උදව් කරන විට ඔවුන් ඒවා අනුගමනය කිරීමට වැඩි ඉඩක් ඇති බව ඔබ දැන සිටියාද? එය උත්සාහ කරන්න!💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Make sure @fields.child_nickname follows their routines daily.",
+    "text": "⏰ @fields.child_nickname ඔවුන්ගේ දින චර්යාවන් දිනපතාම අනුගමනය කරන බවට වග බලා ගන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌱 Activities become easier to manage when children learn and get used to a routine.",
+    "text": "🌱 දරුවන් ඉගෙන ගෙන දින චර්යාවකට හුරු වූ විට ක්‍රියාකාරකම් කළමනාකරණය කිරීම පහසු වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Consistent routines help @fields.child_nickname learn how to do daily activities by themselves and how to manage their time.",
+    "text": "🔄 ස්ථාවර දින චර්යාවන් @fields.child_nicknameට දිනපතා ක්‍රියාකාරකම් තනිවම කරගන්නේ කෙසේද සහ ඔවුන්ගේ කාලය කළමනාකරණය කරගන්නේ කෙසේද යන්න ඉගෙන ගැනීමට උපකාරී වේ.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⏰ Make sure your child follows their routines daily.",
+    "text": "⏰ ඔබේ දරුවා ඔවුන්ගේ දින චර්යාවන් දිනපතාම අනුගමනය කරන බවට වග බලා ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Consistent routines help your child learn how to do daily activities by themselves and how to manage their time.",
+    "text": "🔄 ස්ථාවර දින චර්යාවන් ඔබේ දරුවාට දිනපතා ක්‍රියාකාරකම් තනිවම කරගන්නේ කෙසේද සහ ඔවුන්ගේ කාලය කළමනාකරණය කරගන්නේ කෙසේද යන්න ඉගෙන ගැනීමට උපකාරී වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏅Praise @fields.child_nickname for setting a routine with you.",
+    "text": "🏅ඔබ සමඟ දින චර්යාවක් සැකසීම ගැන @fields.child_nickname ව අගය කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ Praise @fields.child_nickname when they follow the routine.",
+    "text": "⭐ @fields.child_nickname දින චර්යාව අනුගමනය කරන විට ඔවුන්ව අගය කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🏅Praise your child for setting a routine with you.",
+    "text": "⭐ ඔබ සමඟ දින චර්යාවක් සැකසීම ගැන ඔබේ දරුවාව අගය කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Praise your child when they follow the routine.",
+    "text": "⭐ ඔබේ දරුවා දින චර්යාව අනුගමනය කරන විට ඔවුන්ව අගය කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some other routines you could talk about with @fields.child_nickname in addition to one-on-one Time:",
+    "text": "දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවට අමතරව @fields.child_nickname සමඟ කතා කළ හැකි තවත් දින චර්යා කිහිපයක් මෙන්න:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅ Bedtime",
+    "text": "✅ නින්දට යන වේලාව",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Schoolwork",
+    "text": "✅ පාසලෙන් දෙන ගෙදර වැඩවල නිරත වන විට",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Chores",
+    "text": "✅ ගෙදර දොරේ වැඩවල නිරත වන විට",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Mealtime",
+    "text": "✅ ආහාර ගන්නා විට",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Free time",
+    "text": "✅ නිදහසේ සිටින විට",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ TV or gadget time",
+    "text": "✅ රූපවාහිනිය නරඹන හෝ සෙල්ලම් වෙලාව",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some other routines you could talk about with your child in addition to one-on-one Time:",
+    "text": "දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවට අමතරව ඔබේ දරුවා සමඟ කතා කළ හැකි තවත් දින චර්යා කිහිපයක් මෙන්න:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity! Try to create a routine around spending 5 minutes of one-on-one time with @fields.child_nickname every day. 📝 Can you do it today?",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! සෑම දිනකම @fields.child_nickname සමඟ විනාඩි 5ක දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගත කිරීම වටා දින චර්යාවක් නිර්මාණය කිරීමට උත්සාහ කරන්න. 📝 ඔබට අද එය කළ හැකිද?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Home Activity! Try to create a routine around spending 5 minutes of one-on-one time with your child every day. 📝 Can you do it today?",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! සෑම දිනකම ඔබේ දරුවා සමඟ විනාඩි 5ක දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගත කිරීම වටා දින චර්යාවක් නිර්මාණය කිරීමට උත්සාහ කරන්න. 📝 ඔබට අද එය කළ හැකිද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to @fields.child_nickname. You can also make other routines with your child, like having a meal together or going for a walk. It will help your child feel secure and loved.",
+    "text": "ඒක නියමයි! දරුවා වෙනුවෙන් වෙන් කරගත් වේලාව දිනපතා පුරුද්දක් කරගැනීම @fields.child_nicknameට බොහෝ දේ අදහස් කරයි. ඔබට ඔබේ දරුවා සමඟ එකට ආහාර ගැනීම හෝ ඇවිදීම වැනි වෙනත් දින චර්යාවන් ද කළ හැකියි. එය ඔබේ දරුවාට ආරක්ෂිත බව සහ ආදරය දැනීමට උපකාරී වනු ඇත.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "That's great! Making one-on-one time a regular activity will mean a lot to your child. You can also make other routines with your child, like having a meal together or going for a walk. It will help your child feel secure and loved.",
+    "text": "ඒක නියමයි! දරුවා වෙනුවෙන් වෙන් කරගත් වේලාවක නිතිපතා ක්‍රියාකාරකමක් කිරීම ඔබේ දරුවාට බොහෝ දේ අදහස් කරයි. ඔබට ඔබේ දරුවා සමඟ එකට ආහාර ගැනීම හෝ ඇවිදීම වැනි වෙනත් දින චර්යාවන් ද කළ හැකියි. එය ඔබේ දරුවාට ආරක්ෂිත බව සහ ආදරය දැනීමට උපකාරී වනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's OK! Beginning something new takes time. You might want to start with something simple, like creating a time when you and @fields.child_nickname already do something together. ⚽ ",
+    "text": "ඒකට කමක් නැහැ! අලුත් දෙයක් පටන් ගන්න කාලය ගත වෙනවා. ඔබ සහ @fields.child_nickname, දැනටමත් එක්ව කරන දෙයකට කාලයක් වෙන්කිරීම වැනි සරල දෙයකින් ආරම්භ කිරීමට ඔබට සිදු වේවි. ⚽ ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "For example, having dinner or going for a walk. Ask @fields.child_nickname for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲",
+    "text": "උදාහරණයක් ලෙස, රාත්‍රී ආහාරය ගැනීම හෝ ඇවිදීමට යාම. කුමන චර්යාවන් ඔවුන්ට ප්‍රයෝජනවත් විය හැකිද යන්න පිළිබඳ අදහස් @fields.child_nicknameගෙන් විමසන්න. ඔවුන් ඔබව පුදුමයට පත් කළ හැකියි! ⏰🍚🚲",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "That's OK! Beginning something new takes time. You might want to start with something simple, like creating a time when you and your child already do something together. ⚽ ",
+    "text": "ඒකට කමක් නැහැ! අලුත් දෙයක් පටන් ගන්න කාලය ගත වෙනවා. ඔබ සහ ඔබේ දරුවා, දැනටමත් එක්ව කරන දෙයකට කාලයක් වෙන්කිරීම වැනි සරල දෙයකින් ආරම්භ කිරීමට ඔබට සිදු වේවි. ⚽ ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲",
+    "text": "උදාහරණයක් ලෙස, රාත්‍රී ආහාරය ගැනීම හෝ ඇවිදීමට යාම. කුමන චර්යාවන් ඔවුන්ට ප්‍රයෝජනවත් විය හැකිද යන්න පිළිබඳ අදහස් ඔබේ දරුවාගෙන් විමසන්න. ඔවුන් ඔබව පුදුමයට පත් කළ හැකියි! ⏰🍚🚲",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃😣😔This lesson is about noticing your and @fields.child_nickname’s feelings during One-on-One Time.",
+    "text": "😃😣😔මෙම පාඩම දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී ඔබේ සහ @fields.child_nicknameගේ හැඟීම් හඳුනා ගැනීම පිළිබඳවයි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃😣😔This lesson is about noticing your and your child’s feelings during One-on-One Time.",
+    "text": "😃😣😔මෙම පාඩම දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී ඔබේ සහ ඔබේ දරුවාගේ හැඟීම් හඳුනා ගැනීම පිළිබඳවයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 You can help by listening to them, thinking about how it must feel for them, and accepting their emotions. ",
+    "text": "🌷 ඔවුන්ට සවන් දීමෙන්, ඔවුන්ට එය දැනෙන්නේ කෙසේදැයි සිතීමෙන් සහ ඔවුන්ගේ හැඟීම් පිළිගැනීමෙන් දරුවාට උදව් කිරීමට ඔබට හැකියි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🤗This will help them recognise other people’s feelings, too.",
+    "text": "🤗මෙය ඔවුන්ට අන් අයගේ හැඟීම් හඳුනා ගැනීමටද උපකාරී වනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s do a True/False quiz: ",
+    "text": "අපි හරිද වැරදිද ප්‍රශ්න ටිකක් කරමු! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talking about pleasant feelings is not as important as sharing unpleasant feelings.",
+    "text": "මිහිරි/ප්රසන්න හැඟීම් ගැන කතා කිරීම, අමිහිරි හැඟීම් බෙදා ගැනීම තරම් වැදගත් නොවේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. ",
+    "text": "6️⃣මූලික හැඟීම් හයක් තියෙනවා: සතුට, දුක, තරහව, පිළිකුල් සහගත බව, පුදුමය සහ බය. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅It’s important that we talk with our children about ALL of them.",
+    "text": "✅අපි අපේ දරුවන් සමඟ ඒ සියල්ල ගැනම කතා කිරීම වැදගත්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉That’s correct. ",
+    "text": "🎉 ඔබගේ පිළිතුර නිවැරදියි!! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here’s another one: Boys should not share when they are feeling sad or afraid.",
+    "text": "මෙන්න තවත් ප්‍රශ්නයක්: පිරිමි ළමයින් දුකෙන් හෝ බයෙන් සිටින විට එම හැඟීම් වෙනත් කෙනෙකු සමඟ බෙදා නොගත යුතුයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ It is important that both children learn how to share their feelings. ",
+    "text": "⭐ ගැහැණු හා පිරිමි ළමයි දෙගොල්ලන්ම තම හැඟීම් බෙදා ගන්නේ කෙසේදැයි ඉගෙන ගැනීම වැදගත්. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Children will learn that it is okay to feel sad or afraid and ask for help when they need it.",
+    "text": "💙 දුකක් හෝ බයක් දැනීම සාමාන්‍ය බවත්, අවශ්‍ය විටෙක උපකාර ඉල්ලා සිටීම සුදුසු බවත් දරුවන් ඉගෙන ගනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Children will learn that it is okay to feel sad or afraid and to ask for help when they need it.",
+    "text": "💙 දුකක් හෝ බයක් දැනීම සාමාන්‍ය බවත්, අවශ්‍ය විටෙක උපකාර ඉල්ලා සිටීම සුදුසු බවත් දරුවන් ඉගෙන ගනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Last one: As parents, we can also share our feelings with our children.",
+    "text": "අවසාන ප්‍රශ්නය: දෙමාපියන් ලෙස, අපට අපගේ හැඟීම් අපගේ දරුවන් සමඟ බෙදා ගන්න පුලුවන්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Correct! ",
+    "text": "🎉 ඔබ නිවැරදියි! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves.",
+    "text": "🌱 අපගේම හැඟීම් අපගේ දරුවන් සමඟ සන්සුන් ආකාරයකින් බෙදා ගැනීම ඔවුන්ටද එසේ කිරීමට මඟ පෙන්වයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀Oops! Good Try!",
+    "text": "👀 ඔබගේ පිළිතුර වැරදියි! නමුත්‚ හොඳ උත්සාහයක්!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s see how {F3_MOTHER} helps her girl persist with a difficult activity during one-on-one time",
+    "text": "{F3_MOTHER} ඇයගේ දුවට, දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී අමාරු වැඩක් දරාගන්න උදව් කරන්නේ කොහොමද කියලා බලමු",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: {F3_DAUGHTER_7}, I have 5 minutes to spend One-on-One Time with you. What would you like to do?",
+    "text": "{F3_MOTHER}: {F3_DAUGHTER_7}, මට ඔයා එක්ක විනාඩි 5ක් ගත කරන්න පුලුවන්. ඔයා මොනවද කරන්න කැමති?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_DAUGHTER_7}: Let’s play with the ball outside!",
+    "text": "{F3_DAUGHTER_7}: අපි එළියේ බෝලෙත් එක්ක සෙල්ලම් කරමු!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_DAUGHTER_7}: I’m no good at this.",
+    "text": "{F3_DAUGHTER_7}: මට මේක කරන්න බැහැ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: I can see that your hands are tight and you are speaking loudly. It looks like you are upset, {F3_DAUGHTER_7}. It’s not easy, let’s practise a little bit more. I know you can do it.",
+    "text": "{F3_MOTHER}: මට පේනවා ඔයා අත් තද කරන් ඉන්නේ, ඔයා හයියෙන් කතා කරන්නෙත් කලබල වෙලා නිසා, {F3_DAUGHTER_7}. ඒක එච්චර ලේසි නෑ, අපි තව ටිකක් පුහුණු වෙමු. ඔයාට ඒක කරන්න පුළුවන් කියලා මම දන්නවා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: Five catches in a row! You seem really proud to have made it to five, {F3_DAUGHTER_7}!",
+    "text": "{F3_MOTHER}: එක දිගට පස් වතාවක් අල්ලගත්තා! ඒ ගැන ඔයා ඇත්තටම ආඩම්බර වෙනවා වගේ. {F3_DAUGHTER_7}!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_DAUGHTER_7}: Let’s do 10!",
+    "text": "{F3_DAUGHTER_7}: අපි එක දිගට 10 වතාවක් කරමු!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F3_MOTHER}: I am very happy to be able to spend this special time with you, {F3_DAUGHTER_7}.",
+    "text": "{F3_MOTHER}: ඔයා එක්ක සතුටින් මේ කාලය ගත කරන්න පුලුවන් වුන එකට මට ගොඩක් සතුටුයි, {F3_DAUGHTER_7}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 6️⃣ six tips to learn how to notice feelings during one-on-one time",
+    "text": "දරුවා වෙනුවෙන් වෙන්කරගත් කාලය තුළදී හැඟීම් හඳුනා ගන්නේ කෙසේදැයි ඉගෙන ගැනීමට උපදෙස් හයක් 6️⃣ දැන ගැනීමට Play ▶️ ඔබන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ LEARN",
+    "text": "ඉගෙන ගන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ NOTICE",
+    "text": "2️⃣ හඳුනාගන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ OPEN",
+    "text": "3️⃣ විවෘත වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ TALK",
+    "text": "4️⃣ කතා කරන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "5️⃣ SHARE",
+    "text": "5️⃣ බෙදාගන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "6️⃣ CARE",
+    "text": "6️⃣ සැළකිළිමත්බව දක්වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press Play ▶️ to learn 6️⃣ six tips to learn how to notice feelings during one-on-one time ",
+    "text": "දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී හැඟීම් හඳුනා ගන්නේ කෙසේදැයි  උපදෙස් හයක් 6️⃣ ඉගෙන ගැනීමට Play ▶️ ඔබන්න ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Learn about different emotions. There are 6 basic emotions, all of which provide us with a very specific message:  ",
+    "text": "💡 විවිධ හැඟීම් ගැන ඉගෙන ගන්න. මූලික හැඟීම් 6ක් ඇත. ඒ සියල්ල අපට නිශ්චිත පණිවිඩයක් සපයයි:  ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃Happy: Keep doing things that make you feel good.  ",
+    "text": "😃සතුට: ඔබට හොඳක් දැනෙන දේවල් දිගටම කරන්න.  ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😔Sad: Something important in your life needs attention.",
+    "text": "😔දුක: ඔබේ ජීවිතයේ වැදගත් දෙයකට අවධානය අවශ්‍යයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴Angry: Stand up for ourselves and set limits.",
+    "text": "🔴කෝපය: අප වෙනුවෙන් නැගී සිට සීමාවන් නියම කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣Disgusted: Move away from what we don't like.",
+    "text": "😣පිළිකුල් සහගත බව: අපි අකමැති දෙයින් ඈත් වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀Surprised: Stop and pay attention for a moment.",
+    "text": "👀පුදුමය: මොහොතකට නතර වී අවධානය යොමු කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚩Afraid: Run away from danger.",
+    "text": "🚩බය: අනතුරෙන් පලා යන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎨 As children get older, they learn to identify lots of other emotions, like feeling excited, frustrated, proud, lonely, peaceful, guilty, or confused.",
+    "text": "🎨 දරුවන් වයසින් වැඩිවන විට, ඔවුන් උද්යෝගිමත් බව, කලකිරුණු බව, ආඩම්බරබව, තනිකම, සාමකාමී බව, වරදකාරී හෝ ව්‍යාකූල බව දැනීම වැනි තවත් බොහෝ හැඟීම් හඳුනා ගැනීමට ඉගෙන ගනී.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This will make such a big difference. Great job! ⭐",
+    "text": "මෙය විශාල වෙනසක් ඇති කරයි. නියම වැඩක්! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s okay. Try to make time this week. ",
+    "text": "ඒකට කමක් නැහැ. මේ සතිය තුළ කාලය වෙන් කරගැනීමට උත්සාහ කරන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done! ⭐ You have now learnt how to notice your child’s feelings during one-on-one time.",
+    "text": "හොඳින් කළා! ⭐ දැන් ඔබ දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළ ඔබේ දරුවාගේ හැඟීම් දකින ආකාරය ඉගෙන ගෙන ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Noticing our own emotions helps us make clear decisions and act in a nurturing way with @fields.child_nickname and ourselves.",
+    "text": "අපගේම හැඟීම් හඳුනා ගැනීම අපට පැහැදිලි තීරණ ගැනීමට උපකාරී වේ. @fields.child_nickname පෝෂණය වන ආකාරයෙන් ක්‍රියා කිරීමටද එය උපකාරී වේ.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ Noticing and Talking about feelings with @fields.child_nickname will help them learn how to express and regulate themselves. ",
+    "text": "⭐ හැඟීම් නිරීක්ෂණය කිරීම සහ හැඟීම් පිළිබඳව @fields.child_nickname සමඟ කතා කිරීම ඔවුන්ට තමන්ව ප්‍රකාශ කරන්නේ කෙසේද සහ තමන්ව පාලනය කරගන්නේ කෙසේදැයි ඉගෙන ගැනීමට උපකාරී වේ. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👌They will learn that all feelings are okay - even the unpleasant ones.",
+    "text": "👌ඕනෑම හැඟීමක් එනම් අමිහිරි හැඟීම් පවා ඇතිවිය හැකි බව ඔවුන් ඉගෙන ගනු ඇත.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Noticing our own emotions helps us make clear decisions and act in a nurturing way with your child and ourselves.",
+    "text": "අපගේම හැඟීම් හඳුනා ගැනීම අපට පැහැදිලි තීරණ ගැනීමට උපකාරී වේ. ඔබේ දරුවා පෝෂණය වන ආකාරයෙන් ක්‍රියා කිරීමටද එය උපකාරී වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Noticing and Talking about feelings with your child will help them learn how to express and regulate themselves. ",
+    "text": "⭐ හැඟීම් හඳුනා ගැනීම සහ හැඟීම් පිළිබඳව ඔබේ දරුවා සමඟ කතා කිරීම ඔවුන්ට තමන්ව ප්‍රකාශ කරන්නේ කෙසේද සහ තමන්ව පාලනය කරගන්නේ කෙසේදැයි ඉගෙන ගැනීමට උපකාරී වේ. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "6️⃣ Here are 6 tips for how you can help @fields.child_nickname learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, SHARE and CARE",
+    "text": "6️⃣ @fields.child_nicknameට ඔවුන්ගේ හැඟීම් සමඟ කටයුතු කරන්නේ කෙසේදැයි ඉගෙන ගැනීමට උපකාර කළ හැකි උපදෙස් 6ක් මෙන්න: ඉගෙන ගන්න, හඳුනාගන්න, විවෘත වන්න, කතා කරන්න, බෙදා ගන්න සහ සැළකිළිමත් බව දක්වන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "6️⃣ Here are 6 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, SHARE and CARE",
+    "text": "6️⃣ ඔබේ දරුවාට ඔවුන්ගේ හැඟීම් සමඟ කටයුතු කරන්නේ කෙසේදැයි ඉගෙන ගැනීමට උපකාර කළ හැකි උපදෙස් 6ක් මෙන්න: ඉගෙන ගන්න, හඳුනාගන්න, විවෘත වන්න, කතා කරන්න, බෙදා ගන්න සහ සැළකිළිමත් බව දක්වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Begin observing these 6 emotions in yourself and in @fields.child_nickname.",
+    "text": "👀 ඔබ තුළ සහ @fields.child_nickname තුළ මෙම හැඟීම් 6 නිරීක්ෂණය කිරීම ආරම්භ කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃😒😔😣Notice how each emotion feels in your body.  ",
+    "text": "😃😒😔😣 ඔබේ ශරීරයට එක් එක් හැඟීම් දැනෙන ආකාරය නිරීක්ෂණය කරන්න.  ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 You can also notice pleasant emotions such as a sense of peace, happiness, or calmness.",
+    "text": "😃 සාමය, සතුට හෝ සන්සුන් භාවය වැනි ප්රසන්න හැඟීම් ද ඔබට දැකගත හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 Noticing can also allow children to appreciate a beautiful moment or feeling of love!",
+    "text": "💙 හඳුනා ගැනීමෙන් දරුවන්ට සුන්දර මොහොතක් හෝ ආදරණීය හැඟීමක් අගය කිරීමට ද ඉඩ සැලසේ!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Begin observing these 6 emotions in yourself and in your child.",
+    "text": "👀 ඔබ තුළ සහ ඔබේ දරුවා තුළ මෙම හැඟීම් 6 නිරීක්ෂණය කිරීම ආරම්භ කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Be open, notice 👀, and listen 👂 to @fields.child_nickname when they share how they are feeling. ",
+    "text": "@fields.child_nickname ඔවුන්ට හැඟෙන ආකාරය බෙදා ගන්නා විට විවෘතව සිටින්න, හඳුනාගන්න 👀 සහ සවන් දෙන්න 👂 ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💛 Accept how you and @fields.child_nickname feel. Remember your and their bodies are sending messages about what you both are feeling. Recognize that feelings are important for both.",
+    "text": "💛 ඔබට සහ @fields.child_nicknameට හැඟෙන ආකාරය පිළිගන්න. ඔබ දෙදෙනාගේම ශරීර වලින් එම හැඟීම් ප්‍රකාශ වන බව මතක තබා ගන්න. එම හැඟීම් දෙදෙනාටම වැදගත් බව හඳුනා ගන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Be open, notice 👀, and listen 👂 to your child when they share how they are feeling. ",
+    "text": "ඔබේ දරුවා ඔවුන්ට හැඟෙන ආකාරය බෙදා ගන්නා විට විවෘතව සිටින්න, හඳුනාගන්න 👀 සහ සවන් දෙන්න 👂 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Accept how you and your child feel. Remember your and their bodies are sending messages about what you both are feeling. Recognize that feelings are important for both.",
+    "text": "💛 ඔබට සහ ඔබේ දරුවාට හැඟෙන ආකාරය පිළිගන්න. ඔබ දෙදෙනාගේම ශරීර වලින් එම හැඟීම් ප්‍රකාශ වන බව මතක තබා ගන්න. එම හැඟීම් දෙදෙනාටම වැදගත් බව හඳුනා ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😒 It is normal to have difficulty talking about and expressing emotions and feelings. ",
+    "text": "😒 හැඟීම් සහ දැනීම් ගැන කතා කිරීමට සහ ප්‍රකාශ කිරීමට අපහසු වීම සාමාන්‍ය දෙයකි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Remember, it is also normal to experience feelings in different ways.",
+    "text": "📝 මතක තබා ගන්න, විවිධ ආකාරවලින් හැඟීම් අත්විඳීම ද සාමාන්‍ය දෙයකි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ When @fields.child_nickname is feeling an emotion, describe what you are observing in a calm way. For example, ",
+    "text": "⭐ @fields.child_nicknameට හැඟීමක් දැනෙන විට, ඔබ නිරීක්ෂණය කරන දේ සන්සුන්ව විස්තර කරන්න. උදාහරණයක් ලෙස, ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "“I notice you’re stomping your feet, talking loudly, and your face looks a bit upset. Are you feeling angry because you didn’t get to play outside?”",
+    "text": "“පුතා ඔයාගේ කකුල් පාගා ගන්නවා, හයියෙන් කතා කරනවා. ඔයාගේ මුහුණෙනුත් ටිකක් කලබල බවක් මට පේනවා. ඔයාට එළියට ගිහින් සෙල්ලම් කරන්න නොලැබුණු නිසා ද තරහෙන් ඉන්නේ?”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also help @fields.child_nickname learn different emotions by using facial expressions and physical movements. Make it into a game",
+    "text": "මුහුණේ ඉරියව් සහ ශාරීරික චලනයන් භාවිතා කිරීමෙන් @fields.child_nicknameට විවිධ හැඟීම් ඉගෙන ගැනීමට ඔබට උපකාර කළ හැකියි. එය ක්‍රීඩාවක් බවට පත් කරගන්න",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐ When your child is feeling an emotion, describe what you are observing in a calm way. For example, ",
+    "text": "⭐ ඔබේ දරුවාට හැඟීමක් දැනෙන විට, ඔබ නිරීක්ෂණය කරන දේ සන්සුන්ව විස්තර කරන්න. උදාහරණයක් ලෙස, ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also help your child learn different emotions by using facial expressions and physical movements. Make it into a game",
+    "text": "මුහුණේ ඉරියව් සහ ශාරීරික චලනයන් භාවිතා කිරීමෙන් ඔබේ දරුවාට විවිධ හැඟීම් ඉගෙන ගැනීමට ඔබට උපකාර කළ හැකියි. එය ක්‍රීඩාවක් බවට පත් කරගන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Share your own feelings with @fields.child_nickname. ",
+    "text": "😃 ඔබේම හැඟීම් @fields.child_nickname සමඟ බෙදා ගන්න. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "For example, I would feel the same way if I couldn’t go out when I wanted to. ",
+    "text": "උදාහරණයක් ලෙස, මට අවශ්‍ය වූ විට පිටතට යාමට නොහැකි නම් මටත් එලෙසම දැනෙනු ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": " 🎈This sets a good example and shows @fields.child_nickname that it's okay to share their own feelings.",
+    "text": " 🎈මෙය හොඳ ආදර්ශයක් සපයන අතර @fields.child_nicknameට තමන්ගේම හැඟීම් බෙදා ගැනීමට සුදුසු බව පෙන්වයි.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃 Share your own feelings with your child. ",
+    "text": "😃 ඔබේම හැඟීම් ඔබේ දරුවා සමඟ බෙදා ගන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": " 🎈This sets a good example and shows your child that it's okay to share their own feelings.",
+    "text": " 🎈මෙය හොඳ ආදර්ශයක් සපයන අතර ඔබේ දරුවාට තමන්ගේම හැඟීම් බෙදා ගැනීමට සුදුසු බව පෙන්වයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 Use physical and verbal support to make @fields.child_nickname feel accepted and loved. ",
+    "text": "🌷 ඔබ @fields.child_nickname පිළිගන්නා බවත් ආදරය කරන බවත් හැඟීමට, ශාරීරික සහ වාචික සහයෝගය ලබා දෙන්න. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⭐Jump with your child a little bit to shake out anger or take some deep breaths to calm down. These are some of the ways to deal with your emotions. ",
+    "text": "⭐කෝපය සමනය කිරීමට ඔබේ දරුවා සමඟ මඳක් උඩ පනින්න හෝ සන්සුන් වීමට ගැඹුරු හුස්මක් ගන්න. ඔබේ හැඟීම් සමඟ කටයුතු කිරීමට මේ ක්‍රම කිහිපයක්. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Remind @fields.child_nickname that you are there for them and that they can always talk to you.",
+    "text": "💚 ඔබ ඔවුන් වෙනුවෙන් සිටින බවත් ඔවුන්ට සැමවිටම ඔබ සමඟ කතා කළ හැකි බවත් @fields.child_nicknameට මතක් කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🌷 Use physical and verbal support to make your child feel accepted and loved. ",
+    "text": "🌷 ඔබ ඔබේ දරුවා පිළිගන්නා බවත් ආදරය කරන බවත් හැඟීමට, ශාරීරික සහ වාචික සහයෝගය ලබා දෙන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Remind your child that you are there for them and that they can always talk to you.",
+    "text": "💚 ඔබ ඔවුන් වෙනුවෙන් සිටින බවත් ඔවුන්ට සැමවිටම ඔබ සමඟ කතා කළ හැකි බවත් ඔබේ දරුවාට මතක් කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity! During one-on-one time today, notice @fields.child_nickname’s feelings. Talk to @fields.child_nickname by describing both your own feelings and the feelings of @fields.child_nickname.",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! අද දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී, @fields.child_nicknameගේ හැඟීම් හඳුනා ගන්න. ඔබේම හැඟීම් සහ @fields.child_nicknameගේ හැඟීම් දෙකම විස්තර කරමින් @fields.child_nickname සමඟ කතා කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Can you do it today? ",
+    "text": "ඔබට එය අද කළ හැකිද? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity! During one-on-one time today, notice your child’s feelings. Talk to your child by describing both your own feelings and the feelings of your child.",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! අද දරුවා වෙනුවෙන් වෙන් කරගත් කාලය තුළදී, ඔබේ දරුවාගේ හැඟීම් නිරීක්ෂණය කරන්න. ඔබේම හැඟීම් සහ ඔබේ දරුවාගේ හැඟීම් දෙකම විස්තර කරමින් ඔබේ දරුවා සමඟ කතා කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This lesson is about how we can stay calm and manage our anger when dealing with stressful moments with our children. 💚",
+    "text": "මෙම පාඩම අපගේ දරුවන් සමඟ ආතති සහගත අවස්ථාවන්ට මුහුණ දෙන විට සන්සුන්ව සිටින්නේ කෙසේද සහ අපගේ තරහව කළමනාකරණය කර ගන්නේ කෙසේද යන්න පිළිබඳවයි. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "As you began noticing feelings, you would have noticed feelings of anger, frustration or sadness. ",
+    "text": "ඔබ හැඟීම් හඳුනා ගැනීමට පටන් ගත් විට, තරහව, කලකිරීම හෝ දුක වැනි හැඟීම් ඔබ දකිනු ඇත. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌷 We love our children, but stress from caregiving and other events can make us feel angry. This is a normal part of life! ",
+    "text": "🌷 අපි අපේ දරුවන්ට ආදරෙයි, නමුත් රැකබලා ගැනීම සහ වෙනත් සිදුවීම් වලින් ඇතිවන ආතතිය අපට තරහවක් ඇති කළ හැකියි. මෙය ජීවිතයේ සාමාන්‍ය කොටසකි! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 It is important for us to try to stay calm in order to help manage our anger so we do not hurt others.",
+    "text": "💡 අන් අයට හානියක් නොවන පරිදි අපගේ තරහව කළමනාකරණය කර ගැනීම සඳහා සන්සුන්ව සිටීමට උත්සාහ කිරීම අපට වැදගත් වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "When I am angry at my child, I should show that I am angry so they stop misbehaving.",
+    "text": "මගේ දරුවාට මම තරහෙන් සිටින විට, ඔවුන් වැරදි ලෙස හැසිරීම/දඟකිරීම නැවැත්වීමට මම තරහෙන් සිටින බව පෙන්විය යුතුයි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 It can be very difficult when your child is misbehaving, but you should try to manage your own stress and check your anger before doing anything. ",
+    "text": "💛 ඔබේ දරුවා දඟකරන විට එය ඉතා අපහසු විය හැකියි, නමුත් ඔබ ඔබේම ආතතිය කළමනාකරණය කර ගැනීමට උත්සාහ කළ යුතු අතර ඕනෑම දෙයක් කිරීමට පෙර ඔබේ තරහව පරීක්ෂා කළ යුතුයි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.",
+    "text": "🌱 ගැඹුරු හුස්මක් ගැනීම මෙහිදී උපකාරී වනු ඇත. තරහවෙන් සිටීමෙන් ඔබ පසුව පසුතැවිලි වන දේවල් කීමට හෝ කිරීමට හේතු විය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 That’s correct! ",
+    "text": "🎉 ඒක හරි! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER} is about to spend one-on-one time with {F2_SON_8} but finds the living room is a mess. He notices that this makes her feel angry.",
+    "text": "{F2_GRANDFATHER}{F2_SON_8} සමඟ දරුවා වෙනුවෙන් වෙන් කරගත් කාලයක් ගත කරන්න යනවා, නමුත් විසිත්ත කාමරය අවුල් සහගතයි කියලා ඔහු දකිනවා. මේකෙන් ඔහුට කේන්ති යනවා කියලා තේරෙනවා.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER} (thinking): I’m feeling really angry. I am tired and my head feels hot. My mouth and throat are tight. I just want to shout at {F2_SON_8}.",
+    "text": "{F2_GRANDFATHER}(හිතනවා): මට ඇත්තටම කේන්ති යනවා. මට මහන්සියි, මගේ ඔළුව පුපුරන්න වගේ. මට {F2_SON_8}ට කෑ ගහන්න ඕන.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER} (thinking): I will Take a Pause and put on my favourite song.",
+    "text": "{F2_GRANDFATHER} (හිතනවා): විරාමයක් අරන් මගේ ආසම ගීතය ගායනා කරන්න ඕනේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER} (thinking): I am feeling a little better. I can think more clearly about what to do to support my little boy.",
+    "text": "{F2_GRANDFATHER} (හිතනවා): මට ටිකක් හොඳයි. මගේ පුතාට උදවු කරන්නේ කොහොමද කියලා දැන් මට වඩාත් පැහැදිලිව සිතිය හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER}: {F2_SON_8}, very good job doing your homework. You might be feeling tired now. Let's take a 5-minute break, and after that, we can play a game together to quickly pick up the toys.",
+    "text": "{F2_GRANDFATHER}: {F2_SON_8}, ගෙදර වැඩ කරන එක හරිම හොඳයි. දැන් ඔයාට මහන්සි ඇති. අපි විනාඩි 5ක විවේකයක් ගනිමු, ඊට පස්සේ, සෙල්ලම් බඩු ඉක්මනින් එකතු කරගන්න ක්‍රීඩාවක් කරන්න පුළුවන්.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{F2_GRANDFATHER}: Thank you for doing your part to keep the house clean, {F2_SON_8}! I’m so proud of your effort.  Oh! It is our one-on-one time. What would you like to do?",
+    "text": "{F2_GRANDFATHER}: නිවස පිරිසිදුව තියාගන්න පුතාගේ වැඩ කොටස කළාට පුතාට ස්තූතියි, {F2_SON_8}! පුතාගේ උත්සාහය ගැන මම ගොඩක් ආඩම්බර වෙනවා. ඔහ්! දැන් අපි වෙනුවෙන් වෙන් කරගත් වෙලාවේ දී පුතා කරන්න කැමති මොනවද?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here's a video that will help you stay calm when your child misbehaves. ☀️",
+    "text": "ඔබේ දරුවා දඟකරන විට සන්සුන්ව සිටීමට ඔබට උපකාරී වන වීඩියෝවක් මෙන්න. ☀️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ BE CALM",
+    "text": "1️⃣ සන්සුන් වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ BE QUICK",
+    "text": "2️⃣ ඉක්මන් වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ BE CLEAR",
+    "text": "3️⃣ නිරවුල්ව සිටින්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ BE POSITIVE",
+    "text": "4️⃣ ධනාත්මක වන්න",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here's an audio message that will help you stay calm when your child misbehaves. ➡️",
+    "text": "ඔබේ දරුවා දඟකරන විට සන්සුන්ව සිටීමට ඔබට උපකාරී වන ශ්‍රව්‍ය පණිවිඩයක් මෙන්න. ➡️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are four steps to keeping calm in stressful situations: BE CALM, QUICK, CLEAR, and POSITIVE.",
+    "text": "පීඩනකාරී අවස්ථාවන්හිදී සන්සුන්ව සිටීමට පියවර හතරක් තිබේ: සන්සුන් වන්න, ඉක්මන් වන්න, පැහැදිලි වන්න සහ ධනාත්මක වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ *BE CLEAR*",
+    "text": "3️⃣ *නිරවුල්ව සිටින්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Rather than saying what you DON’T want, tell your child what you DO want them to do.",
+    "text": "✅ ඔබට කිරීමට අවශ්‍ය නැති දේ පැවසීමට වඩා, ඔබ කිරීමට කැමති දේ ඔබේ දරුවාට කියන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, say:",
+    "text": "උදාහරණයක් ලෙස, මෙසේ කියන්න:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ “Please speak more softly.”",
+    "text": "✨ “කරුණාකර හොඳින් කතා කරන්න.”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ “Remember to walk inside the house.”",
+    "text": "✨ “නිවස තුළට යාමට මතක තබා ගන්න.”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This way, it is easier for them to follow! ⭐",
+    "text": "මේ ආකාරයෙන්, දෙයක් ඔවුන්ට අනුගමනය කිරීම පහසුය! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ *BE POSITIVE*",
+    "text": "4️⃣ *ධනාත්මක වන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Praise your child when they behave well!",
+    "text": "✅ ඔබේ දරුවා හොඳින් හැසිරෙන විට අගය කරන්න!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Redirecting your child to a positive behaviour will help you manage the situation.",
+    "text": "✅ ඔබේ දරුවා ධනාත්මක හැසිරීමකට යොමු කිරීම, මගින් ඔබට තත්වය කළමනාකරණය කිරීමට උපකාරී වේ.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ It will also help them know what you expect from them!",
+    "text": "✅ එය ඔබ ඔවුන්ගෙන් අපේක්ෂා කරන දේ දැන ගැනීමට ද ඔවුන්ට උපකාරී වනු ඇත!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity! Remember to use these four steps if you start feeling stressed or angry during one-on-one time with your child. You can also share them with another member of your family. Sharing these tips will be great for everyone’s well-being. ➡️",
+    "text": "නිවසේදී ක්‍රියාකාරකමක්! ඔබේ දරුවා සමඟ කතා කරන අතරතුර ඔබට ආතතියක් හෝ තරහවක් දැනෙන්නට පටන් ගන්නේ නම්, මෙම පියවර හතර භාවිතා කිරීමට මතක තබා ගන්න. ඔබට ඒවා ඔබේ පවුලේ තවත් සාමාජිකයෙකු සමඟ බෙදා ගත හැකියි. මෙම උපදෙස් බෙදා ගැනීම සෑම කෙනෙකුගේම යහපැවැත්මට ඉතා ප්රයෝජනවත් වනු ඇත. ➡️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you share these tips today? ",
+    "text": "අද ඔබට මෙම උපදෙස් බෙදා ගත හැකිද? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Amazing! ✨ Over the next few days, try to keep calm and redirect your child from a negative behaviour to a positive one before it gets worse.",
+    "text": "නියමයි! ✨ ඉදිරි දින කිහිපය තුළ, සන්සුන්ව සිටීමට උත්සාහ කර ඔබේ දරුවා නරක අතට හැරීමට පෙර ඍණාත්මක හැසිරීමකින් ධනාත්මක හැසිරීමකට යොමු කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's OK! 📝 Start by practising to Take a Pause even when you feel okay. This will help you be more ready when you feel stressed. ⭐",
+    "text": "ඒකට කමක් නැහැ! 📝 ඔබ හොඳින් යැයි දැනෙන විට පවා විරාමයක් ගැනීමට පුරුදු වීමෙන් ආරම්භ කරන්න. මෙය ඔබට ආතතියක් දැනෙන විට වඩාත් සූදානම් වීමට උපකාරී වනු ඇත. ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done! 🎉 You have learnt how to keep calm and redirect your child when you are feeling stressed! ",
+    "text": "හොඳයි! 🎉 ඔබ ආතතියක් දැනෙන විට සන්සුන්ව සිටීමට සහ ඔබේ දරුවා නිවැරදි කරවීමට ඉගෙන ගෙන ඇත! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, Improve My Relationship with My Child 🏆",
+    "text": "ඔබ @fields.c_n_mod පාඩම් වලින් @(fields.c_n_mod_compl +1) සම්පූර්ණ කර ඇත, මගේ දරුවා සමඟ මගේ සම්බන්ධතාවය වැඩිදියුණු කරන්න 🏆",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ *BE CALM*",
+    "text": "1️⃣ *සන්සුන් වන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Be aware of your own feelings.",
+    "text": "✅ ඔබේම හැඟීම් ගැන දැනුවත් වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Take care of your emotions.",
+    "text": "✅ ඔබේ හැඟීම් ගැන සැලකිලිමත් වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Remember your goal: make @fields.child_nickname feel loved and secure.",
+    "text": "✅ඔබේ ඉලක්කය මතක තබා ගන්න: @fields.child_nicknameට ආදරය සහ ආරක්ෂාව දැනෙන්න සලස්වන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅Act effectively: Take a pause or a few breaths before asking @fields.child_nickname to do something else.",
+    "text": "✅ඵලදායී ලෙස ක්‍රියා කරන්න: @fields.child_nicknameගෙන් වෙනත් දෙයක් කිරීමට ඉල්ලා සිටීමට පෙර විරාමයක් හෝ හුස්ම වාර කිහිපයක් ගන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅ Speak with @fields.child_nickname in a calm voice.",
+    "text": "✅ සන්සුන් හඬකින් @fields.child_nickname සමඟ කතා කරන්න.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅Remember your goal: make your child feel loved and secure.",
+    "text": "✅ඔබේ ඉලක්කය මතක තබා ගන්න: ඔබේ දරුවාට ආදරය සහ ආරක්ෂාව දැනෙන්න සලස්වන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Act effectively: Take a pause or a few breaths before asking your child to do something else.",
+    "text": "✅ඵලදායී ලෙස ක්‍රියා කරන්න: ඔබේ දරුවාගෙන් වෙනත් දෙයක් කිරීමට ඉල්ලා සිටීමට පෙර විරාමයක් හෝ හුස්ම වාර කිහිපයක් ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Speak with your child in a calm voice.",
+    "text": "✅ සන්සුන් හඬකින් ඔබේ දරුවා සමඟ කතා කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ *BE QUICK*",
+    "text": "2️⃣ *ඉක්මන් වන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ There are other things you can do to help manage unwanted behaviour before it becomes stressful. ",
+    "text": "⏰ අනවශ්‍ය හැසිරීම් නිසා ආතතියට පත්වීමට පෙර එය කළමනාකරණය කිරීමට ඔබට කළ හැකි වෙනත් දේවල් තිබේ. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Praise something positive that your child did today. ",
+    "text": "✨අද ඔබේ දරුවා කළ හොඳ දෙයකට අගය කරන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Understand their feelings. For example, it may feel boring to pick up toys after having fun or ending a big task. ",
+    "text": "✨ඔවුන්ගේ හැඟීම් තේරුම් ගන්න. නිදසුනක් ලෙස, විනෝද වීමෙන් හෝ විශාල කාර්යයක් අවසන් කිරීමෙන් පසු සෙල්ලම් බඩු අහුලා ගැනීමට කම්මැලි විය හැකියි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Ask your child to do something else, and distract them before the unwanted behaviour begins or gets worse. ",
+    "text": "✨වෙනත් දෙයක් කිරීමට ඔබේ දරුවාට කියන්න, අනවශ්‍ය හැසිරීම ආරම්භ වීමට හෝ නරක අතට හැරීමට පෙර ඔවුන්ගේ අවධානය වෙනතකට යොමු කරන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Invite @fields.child_nickname in a chore you are doing. You can ask @fields.child_nickname to think of a fun and quick way of doing the chores differently. ",
+    "text": "✨ඔබ කරන වැඩකට @fields.child_nicknameත් සහභාගී කර ගන්න. ගෙදර දොරේ වැඩ වෙනස් ලෙස කිරීමට විනෝදජනක සහ ඉක්මන් ක්‍රමයක් ගැන සිතීමට ඔබට @fields.child_nicknameන් ඉල්ලා සිටිය හැකියි. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "💡 This is much easier than using consequences after they do something!",
+    "text": "💡 ඔවුන් යමක් කළ පසු දඬුවම් දෙනවාට වඩා මෙය ඉතා පහසුයි!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨Invite your child in a chore you are doing. You can ask your child to think of a fun and quick way of doing the chores differently. ",
+    "text": "✨ඔබ කරන වැඩකට ඔබේ දරුවාත් සහභාගී කර ගන්න. ගෙදර දොරේ වැඩ වෙනස් ලෙස කිරීමට විනෝදජනක සහ ඉක්මන් ක්‍රමයක් ගැන සිතීමට ඔබට ඔබේ දරුවාගෙන් ඉල්ලා සිටිය හැකියි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Before you focus on supporting others, it’s important to take care of yourself. ",
+    "text": "⭐ අන් අයට සහාය වීම කෙරෙහි අවධානය යොමු කිරීමට පෙර, ඔබ ගැන සැලකිලිමත් වීම වැදගත් වේ. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😣 Feeling stressed as your children grow up is normal. As your relationship with them changes, it’s important to handle this shift well, and that starts with self-care.",
+    "text": "😣 ඔබේ දරුවන් වැඩෙන විට ආතතියක් දැනීම සාමාන්‍ය දෙයකි. ඔවුන් සමඟ ඔබේ සම්බන්ධතාවය වෙනස් වන විට, මෙම වෙනස් වීම හොඳින් හසුරුවා ගැනීම වැදගත් වන අතර එය ආරම්භ වන්නේ ස්වයං රැකවරණයෙනි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Self-care means doing things for yourself to reduce stress and make you feel better. ",
+    "text": "🌱 ස්වයං රැකවරණය යනු ආතතිය අඩු කර ගැනීමට සහ ඔබට වඩා හොඳ හැඟීමක් ඇති කිරීමට ඔබ වෙනුවෙන් දේවල් කිරීමයි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Let’s learn a simple way to handle everyday stress: Taking a pause. ",
+    "text": "⏰ එදිනෙදා ආතතිය පාලනය කිරීමට සරල ක්‍රමයක් ඉගෙන ගනිමු: විරාමයක් ගැනීම. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "♻ We will use this skill frequently in future lessons, so it is important to learn it today!",
+    "text": "♻ අපි ඉදිරි පාඩම් වලදී මෙම කුසලතාව නිතර භාවිතා කරනවා, එම නිසා අදම එය ඉගෙන ගැනීම වැදගත්!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Taking a pause will help you manage stress and be more able to take care of others and yourself.🌱",
+    "text": "විරාමයක් ගැනීමෙන් ඔබට ආතතිය කළමනාකරණය කරගැනීමට සහ අන් අය සහ ඔබ ගැන සැලකිලිමත් වීමට වඩාත් හැකියාව ලැබෙයි.🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's practise taking a pause together. ",
+    "text": "අපි එකට විරාමයක් ගෙන පුහුණු වෙමු. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ *SIT DOWN*",
+    "text": "1️⃣ *වාඩි වෙන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸  Find a place where you can sit comfortably.",
+    "text": "⏸ ඔබට සුවපහසු ලෙස වාඩි විය හැකි ස්ථානයක් සොයා ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ You can close your eyes if you want.",
+    "text": "⭐ ඔබට අවශ්‍ය නම් ඔබේ ඇස් වසා ගත හැකියි.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2️⃣ *LISTEN*",
+    "text": "2️⃣ *සවන් දෙන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Take a deep breath.",
+    "text": "🌱 ගැඹුරු හුස්මක් ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Feel the air moving in and out of your body.",
+    "text": "ඔබේ ශරීරයෙන් වාතය ඇතුළට සහ පිටතට ගමන් කරන ආකාරය විඳින්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Repeat this 5 times.",
+    "text": "🔄 මෙය 5 වතාවක් නැවත කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ *NOTICE*",
+    "text": "3️⃣ *හඳුනා ගන්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Notice how your body feels while you breathe.",
+    "text": "✨ ඔබ හුස්ම ගන්නා අතරතුර ඔබේ ශරීරයට දැනෙන ආකාරය හඳුනා ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Notice where you feel tension in your body and try to let it go.",
+    "text": "🔵 ඔබේ ශරීරයේ ආතතිය දැනෙන ස්ථානය හඳුනා ගෙන එය අත්හැරීමට උත්සාහ කරන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "4️⃣ *OPEN YOUR EYES*",
+    "text": "4️⃣ *ඔබේ ඇස් අරින්න*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When you are ready, open your eyes.",
+    "text": "👀 ඔබ සූදානම් වූ විට, ඔබේ ඇස් අරින්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 Notice if you feel any different than when you started this activity.",
+    "text": "🔑 ඔබ මෙම ක්රියාකාරකම ආරම්භ කරන විටදීට වඩා දැන් වෙනස් හැඟීමක් ඔබට දැනෙනවාද යන්න සැලකිල්ලට ගන්න.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️",
+    "text": "✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "▶️Press Play to practise taking a pause together. ",
+    "text": "▶️එක්ව විරාමයක් ගැනීමට පුහුණු වීමට Play ඔබන්න. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Try taking a pause whenever you feel angry, overwhelmed, stressed or worried. ⏰ ",
+    "text": "ඔබට තරහවක්, එපාවීමක්, ආතතියක් හෝ කනස්සල්ලක් දැනෙන සෑම අවස්ථාවකම විරාමයක් ගැනීමට උත්සාහ කරන්න.⏰ ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your child or teen. ",
+    "text": "ගැඹුරු හුස්ම කිහිපයක් ගැනීම හෝ පොළවට පය තැබීම පවා වෙනසක් ඇති කළ හැකියි. ඔබට ඔබේ දරුවා සමඟද විරාමයක් ගත හැකියි. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Try taking a pause on a daily basis, even if you are feeling calm. Doing this regularly will help your brain take a pause, even in challenging situations. ",
+    "text": "ඔබට සන්සුන් බවක් දැනුනත්, දිනපතා විරාමයක් ගැනීමට උත්සාහ කරන්න. මෙය නිතිපතා කිරීමෙන් අභියෝගාත්මක අවස්ථාවන්හිදී පවා ඔබේ මොළයට විරාමයක් ලබා ගැනීමට උපකාරී වේ. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅ 100%",
+    "text": "✅✅ 100%",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done! 🎉 You have learnt the importance of caring for yourself and how to take a pause. ✨",
+    "text": "හොඳයි! 🎉 ඔබ ගැන සැලකිලිමත් වීමේ වැදගත්කම සහ විරාමයක් ගන්නේ කෙසේද යන්න ඔබ ඉගෙන ගෙන ඇත. ✨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "True",
+    "text": "හරි",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "False",
+    "text": "වැරදි",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NEXT",
+    "text": "ඊළඟ",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "ඔව්",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "නැත",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "true",
+    "text": "හරි",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "false",
+    "text": "වැරදි",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y yeah yep",
+    "text": "ඔව්",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no nope n",
+    "text": "නැත",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

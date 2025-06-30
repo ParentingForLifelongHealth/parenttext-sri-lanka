@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "Onboarding",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "module_content_all_ages_data",
+        "data_model": "PlhContentModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      }
+    ],
+    "Onboarding": [
+      {
+        "ID": "take_a_pause",
+        "module_name": "Take a Pause",
+        "introduction.msg_list": "⭐ Before you focus on supporting others, it’s important to take care of yourself. \n\n😣 Feeling stressed as your children grow up is normal. As your relationship with them changes, it’s important to handle this shift well, and that starts with self-care.\n\n🌱 Self-care means doing things for yourself to reduce stress and make you feel better. \n\n⏰ Let’s learn a simple way to handle everyday stress: Taking a pause. \n\n♻ We will use this skill frequently in future lessons, so it is important to learn it today!",
+        "importance.msg_list": "Taking a pause will help you manage stress and be more able to take care of others and yourself.🌱",
+        "quiz.intro": "",
+        "quiz.content.1.question": "",
+        "quiz.content.1.values": "",
+        "quiz.content.1.answer": "",
+        "quiz.content.1.feedback_correct": "",
+        "quiz.content.1.feedback_incorrect": "",
+        "quiz.content.2.question": "",
+        "quiz.content.2.values": "",
+        "quiz.content.2.answer": "",
+        "quiz.content.2.feedback_correct": "",
+        "quiz.content.2.feedback_incorrect": "",
+        "quiz.content.3.question": "",
+        "quiz.content.3.values": "",
+        "quiz.content.3.answer": "",
+        "quiz.content.3.feedback_correct": "",
+        "quiz.content.3.feedback_incorrect": "",
+        "comic.intro": "Let's practise taking a pause together. ",
+        "comic.next_button": "",
+        "comic.text.1": "1️⃣ *SIT DOWN*\n\n⏸  Find a place where you can sit comfortably.\n\n⭐ You can close your eyes if you want.",
+        "comic.text.2": "2️⃣ *LISTEN*\n\n🌱 Take a deep breath.\n\n👂 Feel the air moving in and out of your body.\n\n🔄 Repeat this 5 times.",
+        "comic.text.3": "3️⃣ *NOTICE*\n\n✨ Notice how your body feels while you breathe.\n\n🔵 Notice where you feel tension in your body and try to let it go.",
+        "comic.text.4": "4️⃣ *OPEN YOUR EYES*\n\n👀 When you are ready, open your eyes.\n\n🔑 Notice if you feel any different than when you started this activity.",
+        "comic.text.5": "",
+        "comic.text.6": "",
+        "tips.intro": "Try taking a pause whenever you feel angry, overwhelmed, stressed or worried. ⏰ \nEven a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your child or teen. \n\nTry taking a pause on a daily basis, even if you are feeling calm. Doing this regularly will help your brain take a pause, even in challenging situations. ",
+        "tips.next_button": "NEXT",
+        "tips.message.1.text": "",
+        "tips.message.2.text": "",
+        "tips.message.3.text": "",
+        "tips.message.4.text": "",
+        "tips.message.5.text": "",
+        "tips.message.6.text": "",
+        "tips.message.7.text": "",
+        "video.script": "",
+        "video.message": "▶️Press Play to practise taking a pause together. ",
+        "video.expiration_time_min": "",
+        "audio.message": "▶️Press Play to practise taking a pause together. ",
+        "audio.expiration_time_min": "",
+        "home_activity.activity": "",
+        "home_activity.positive_msg": "",
+        "home_activity.negative_msg": "",
+        "congratulations.msg_list": "Well done! 🎉 You have learnt the importance of caring for yourself and how to take a pause. ✨",
+        "attached_single_doc": ""
+      }
+    ]
+  }
+}

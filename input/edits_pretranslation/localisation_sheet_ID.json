@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "==content==": [
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-childname-genderquestion",
+        "status": "draft",
+        "order": "-3"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-childname-gender",
+        "status": "draft",
+        "order": "-1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-childname-punctuation-gender",
+        "status": "draft",
+        "order": "-2"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "remove-comics",
+        "status": "draft",
+        "order": "0"
+      }
+    ],
+    "remove-comics": [
+      {
+        "type_of_edit": "remove_attachments",
+        "flow_id": "module - calm_yc",
+        "original_row_id": "",
+        "node_identifier": "{F2_GRANDFATHER} (thinking): I am feeling a little better. I can think more clearly about what to do to support my little boy.",
+        "change": "@(fields.comic_path & \"calm_yc_3.jpg\")",
+        "condition_var": "",
+        "category": ""
+      },
+      {
+        "type_of_edit": "remove_attachments",
+        "flow_id": "module - calm_teen",
+        "original_row_id": "",
+        "node_identifier": "{F2_GRANDMOTHER} (thinking): I am feeling a little better. I can think more clearly about what to do to support my little boy.",
+        "change": "@(fields.comic_path & \"calm_teen_3.jpg\")",
+        "condition_var": "",
+        "category": ""
+      },
+      {
+        "type_of_edit": "remove_attachments",
+        "flow_id": "module_review - calm_yc",
+        "original_row_id": "",
+        "node_identifier": "{F2_GRANDFATHER} (thinking): I am feeling a little better. I can think more clearly about what to do to support my little boy.",
+        "change": "@(fields.comic_path & \"calm_yc_3.jpg\")",
+        "condition_var": "",
+        "category": ""
+      },
+      {
+        "type_of_edit": "remove_attachments",
+        "flow_id": "module_review - calm_teen",
+        "original_row_id": "",
+        "node_identifier": "{F2_GRANDMOTHER} (thinking): I am feeling a little better. I can think more clearly about what to do to support my little boy.",
+        "change": "@(fields.comic_path & \"calm_teen_3.jpg\")",
+        "condition_var": "",
+        "category": ""
+      }
+    ],
+    "insert-childname-gender": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Teen.*",
+        "change": "Your Teen",
+        "condition_var": "@fields.child_nickname",
+        "category": "your {teen}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Child.*",
+        "change": "Your Child",
+        "condition_var": "@fields.child_nickname",
+        "category": "your {child}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Baby.*",
+        "change": "Your Baby",
+        "condition_var": "@fields.child_nickname",
+        "category": "your {baby}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      }
+    ],
+    "insert-childname-punctuation-gender": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:(^|.*[\\.?!] )Your Teen.*",
+        "change": "Your Teen",
+        "condition_var": "@fields.child_nickname",
+        "category": "Your {teen}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:(^|.*[\\.?!] )Your Child.*",
+        "change": "Your Child",
+        "condition_var": "@fields.child_nickname",
+        "category": "Your {child}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:(^|.*[\\.?!] )Your Baby.*",
+        "change": "Your Baby",
+        "condition_var": "@fields.child_nickname",
+        "category": "Your {baby}",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      }
+    ],
+    "insert-childname-genderquestion": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "onboarding_question_with_opt - child_gender",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Child.*",
+        "change": "Your Child",
+        "condition_var": "@fields.child_nickname",
+        "category": "your child",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      }
+    ]
+  }
+}

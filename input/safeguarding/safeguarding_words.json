@@ -1,0 +1,2610 @@
+{
+    "generic": [
+        {
+            "English": {
+                "keywords": [
+                    "kidnap",
+                    "kidnapping",
+                    "kidnapper",
+                    "kidnapped"
+                ],
+                "mispellings": [
+                    "kiddnapp",
+                    "kidnapp",
+                    "kiddnap",
+                    "kidnape"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
+                        "\u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
+                        "\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca \u0dad\u0dd0\u0db1\u0dd0\u0dad\u0dca\u0dad\u0dcf",
+                        "\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "death",
+                        "dead",
+                        "dying"
+                    ],
+                    "mispellings": [
+                        "deeath",
+                        "deat"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0db8\u0dbb\u0dab\u0dba",
+                    "\u0db8\u0dbb\u0dab\u0dba\u0da7 \u0db4\u0dad\u0dca",
+                    "\u0db8\u0dd2\u0dba \u0dba\u0db8\u0dd2\u0db1\u0dca"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "illegal"
+                ],
+                "mispellings": [
+                    "ilegal",
+                    "ellegal",
+                    "ileagaly"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db1\u0dd3\u0dad\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "poison",
+                        "poisoning",
+                        "poisoned"
+                    ],
+                    "mispellings": [
+                        "pesian",
+                        "boisoned",
+                        "poision",
+                        "poisioning",
+                        "poisioned"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0dc0\u0dc3",
+                    "\u0dc0\u0dd2\u0dc2 \u0dc0\u0dd3\u0db8",
+                    "\u0dc0\u0dd2\u0dc2 \u0dc0\u0dd4\u0dab\u0dcf/\u0dc0\u0dd2\u0dc2 \u0dc3\u0dc4\u0dd2\u0dad"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crisis",
+                    "crises"
+                ],
+                "mispellings": [
+                    "krisis",
+                    "krises"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba",
+                        "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0d9a\u0dcf\u0dbb\u0dd3"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "trouble",
+                        "troubling",
+                        "troublesome",
+                        "troubled"
+                    ],
+                    "mispellings": [
+                        "troubl",
+                        "trevel",
+                        "trubl"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0d9a\u0dbb\u0daf\u0dbb",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0d9a\u0dcf\u0dbb\u0dd3",
+                    "\u0d9a\u0dbb\u0daf\u0dbb\u0d9a\u0dcf\u0dbb\u0dd3",
+                    "\u0d9a\u0dbb\u0daf\u0dbb \u0d9a\u0dc5\u0dcf"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "victim",
+                    "victimised"
+                ],
+                "mispellings": [
+                    "victm",
+                    "victimized",
+                    "victem"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0dd2\u0dad\u0dba\u0dcf",
+                        "\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0dd2\u0dad"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "emergency",
+                        "911.0"
+                    ],
+                    "mispellings": [
+                        "emergincy",
+                        "emergincey",
+                        "emergince",
+                        "imerjensi"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0dc4\u0daf\u0dd2\u0dc3\u0dd2"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "danger",
+                    "dangerous",
+                    "endangered"
+                ],
+                "mispellings": [
+                    "dangeur",
+                    "dangeer",
+                    "dangre",
+                    "dange"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0db1\u0dad\u0dd4\u0dbb",
+                        "\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dcf\u0dba\u0d9a",
+                        "\u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u0dc0\u0dd6"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "stalking"
+                    ],
+                    "mispellings": [
+                        "staling",
+                        "staking",
+                        "stakling",
+                        "stalkin"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0dbd\u0dd4\u0dc4\u0dd4\u0db6\u0dd0\u0db3\u0dd3\u0db8"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "follow",
+                    "following",
+                    "followed"
+                ],
+                "mispellings": [
+                    "folow",
+                    "folowed",
+                    "followin",
+                    "folowin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0db1\u0dd4\u0d9c\u0db8\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1/\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0daf\u0dd2\u0db1\u0dca\u0db1",
+                        "\u0d85\u0db1\u0dd4\u0d9c\u0db8\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8/\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd0\u0daf\u0dd3\u0db8",
+                        "\u0d85\u0db1\u0dd4\u0d9c\u0db8\u0db1\u0dba \u0d9a\u0dc5\u0dcf/\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0daf\u0dd2\u0db1 \u0dbd\u0daf\u0dd3"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "suffer",
+                        "suffering",
+                        "suffered",
+                        "tortured"
+                    ],
+                    "mispellings": [
+                        "sufer",
+                        "sufering",
+                        "sufered"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "\u0daf\u0dd4\u0d9a\u0dca \u0dc0\u0dd2\u0db3\u0dd2\u0db1\u0dca\u0db1",
+                    "\u0daf\u0dd4\u0d9a\u0dca \u0dc0\u0dd2\u0db3\u0dd3\u0db8",
+                    "\u0daf\u0dd4\u0d9a\u0dca \u0dc0\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+                    "\u0dc0\u0db0\u0dc4\u0dd2\u0d82\u0dc3\u0dcf \u0d9a\u0dc5\u0dcf"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hide",
+                    "hiding",
+                    "hid"
+                ],
+                "mispellings": [
+                    "hidin",
+                    "heed",
+                    "haid"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc3\u0d9f\u0dc0\u0db1\u0dca\u0db1",
+                        "\u0dc3\u0dd0\u0d9f\u0dc0\u0dcf \u0dc3\u0dd2\u0da7\u0dd3\u0db8",
+                        "\u0dc3\u0dd0\u0d9f\u0dc0\u0dcf \u0d87\u0dad/ \u0dc3\u0dd0\u0d9f\u0dc0\u0dd6\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "health": [
+        {
+            "English": {
+                "keywords": [
+                    "vomit",
+                    "vomitted",
+                    "vomitting"
+                ],
+                "mispellings": [
+                    "yak",
+                    "vomited",
+                    "womit"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0db8\u0db1\u0dba\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n COVID",
+                        "\u0dc0\u0db8\u0db1\u0dba \u0d9a\u0dc5\u0dcf/ \u0dc0\u0db8\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf",
+                        "\u0dc0\u0db8\u0db1\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "puke",
+                    "puking",
+                    "puked"
+                ],
+                "mispellings": [
+                    "pook",
+                    "pukeing",
+                    "pooking"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0db8\u0db1\u0dba",
+                        "\u0dc0\u0db8\u0db1\u0dba",
+                        "\u0dc0\u0db8\u0db1\u0dba\u0d9a\u0dc5\u0dcf/ \u0dc0\u0db8\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dbd\u0daf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disease",
+                    "STD",
+                    "diseases"
+                ],
+                "mispellings": [
+                    "diseaze",
+                    "dizeese",
+                    "SDT"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbb\u0ddd\u0d9c\u0dba",
+                        "\u0dbd\u0dd2\u0d82\u0d9c\u0dcf\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0dbb\u0ddd\u0d9c",
+                        "\u0dbb\u0ddd\u0d9c"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sick",
+                    "sickness",
+                    "sickly"
+                ],
+                "mispellings": [
+                    "sik",
+                    "seck",
+                    "seek"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0dc3\u0db1\u0dd3\u0db4",
+                        "\u0d85\u0dc3\u0db1\u0dd3\u0db4\u0dba",
+                        "\u0d85\u0dc3\u0db1\u0dd3\u0db4 \u0dc0\u0d9c\u0dda/ \u0dbb\u0ddd\u0d9c\u0dd3"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ill",
+                    "illness",
+                    "illnesses"
+                ],
+                "mispellings": [
+                    "illl",
+                    "illniss",
+                    "illnees"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0dc3\u0db1\u0dd3\u0db4",
+                        "\u0d85\u0dc3\u0db1\u0dd3\u0db4\u0dba",
+                        "\u0dbb\u0ddd\u0d9c"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "health",
+                    "healthy"
+                ],
+                "mispellings": [
+                    "haelth",
+                    "healthy",
+                    "helath"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba",
+                        "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0db8\u0dca\u0db4\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hospital",
+                    "clinic"
+                ],
+                "mispellings": [
+                    "hopital",
+                    "hopsital",
+                    "celinic"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbb\u0ddd\u0dc4\u0dbd",
+                        "\u0dc3\u0dcf\u0dba\u0db1\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "miscarriage",
+                    "miscarry"
+                ],
+                "mispellings": [
+                    "miscariage",
+                    "miscarig"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0dc0\u0dd3\u0db8",
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf/ \u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pregnant",
+                    "pregnancy",
+                    "expecting"
+                ],
+                "mispellings": [
+                    "pegant",
+                    "preganci",
+                    "prengant"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0dbb\u0dca\u0db7\u0db1\u0dd3",
+                        "\u0d9c\u0dd0\u0db6\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
+                        "\u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4 \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abortion",
+                    "abort",
+                    "aborted",
+                    "aborting"
+                ],
+                "mispellings": [
+                    "abbortion",
+                    "obortion"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf\u0dc0",
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dc5\u0dcf/ \u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dbb\u0db1 \u0dbd\u0daf",
+                        "\u0d9c\u0db6\u0dca\u0dc3\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "COVID",
+                    "COVID19"
+                ],
+                "mispellings": []
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+                        "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca 19"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "mental_health": [
+        {
+            "English": {
+                "keywords": [
+                    "anxiety",
+                    "anxious",
+                    "anxiousness"
+                ],
+                "mispellings": [
+                    "angziaty",
+                    "anxieti",
+                    "anxeity"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0dcf\u0d82\u0dc3\u0dcf\u0dc0",
+                        "\u0d9a\u0dcf\u0d82\u0dc3\u0dcf\u0dc0\u0dd9\u0db1\u0dca",
+                        "\u0d9a\u0dcf\u0d82\u0dc3\u0dcf\u0dc0"
+                    ],
+                    "mispellings": [
+                        "\u0d9a\u0dcf\u0d82\u0dc3\u0dcf \u0dc3\u0dc4\u0d9c\u0dad",
+                        "\u0d9a\u0dcf\u0d82\u0dc3\u0dcf \u0dc3\u0dc4\u0d9c\u0dad\u0db6\u0dc0"
+                    ]
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "depression",
+                    "depressive",
+                    "depressed"
+                ],
+                "mispellings": [
+                    "despression",
+                    "despressive",
+                    "despressed"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dd2\u0dc1\u0dcf\u0daf\u0dba/ \u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba",
+                        "\u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0d9a\u0dcf\u0dbb\u0dd3/ \u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1 \u0dc3\u0dc4\u0d9c\u0dad",
+                        "\u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca/ \u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "disorder",
+                    "disorders"
+                ],
+                "mispellings": [
+                    "dizorder",
+                    "dissorder",
+                    "isorder"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d86\u0db6\u0dcf\u0db0\u0dba",
+                        "\u0d86\u0db6\u0dcf\u0db0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "therapy"
+                ],
+                "mispellings": [
+                    "therapi",
+                    "therepy",
+                    "therepi"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0dcf\u0dc0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "psychologist"
+                ],
+                "mispellings": [
+                    "sychology",
+                    "psichology"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0db1\u0ddd\u0dc0\u0dd2\u0daf\u0dca\u0dba\u0dcf\u0da5\u0dba\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "suicide",
+                    "suicidal",
+                    "suicides"
+                ],
+                "mispellings": [
+                    "suicido",
+                    "suiced"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc3\u0dd2\u0dba\u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
+                        "\u0dc3\u0dd2\u0dba\u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda",
+                        "\u0dc3\u0dd2\u0dba\u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dca/ \u0dc3\u0dd2\u0dba\u0daf\u0dd2\u0dc0\u0dd2 \u0db1\u0dc3\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stress",
+                    "stressed"
+                ],
+                "mispellings": [
+                    "stresss",
+                    "strees",
+                    "srtess",
+                    "stres"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d86\u0dad\u0dad\u0dd2\u0dba",
+                        "\u0d86\u0dad\u0dad\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca/ \u0d86\u0dad\u0dad\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "distress",
+                    "distressed"
+                ],
+                "mispellings": [
+                    "destressed",
+                    "destresss"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba",
+                        "\u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca/ \u0db8\u0dcf\u0db1\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sad",
+                    "saddened"
+                ],
+                "mispellings": [
+                    "sadd",
+                    "saddenned",
+                    "sadend"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0daf\u0dd4\u0d9a\u0dca\u0db6\u0dbb",
+                        "\u0daf\u0dd4\u0d9a\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scare",
+                    "scared"
+                ],
+                "mispellings": [
+                    "csared",
+                    "csare"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db6\u0dd2\u0dba",
+                        "\u0db6\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "afraid"
+                ],
+                "mispellings": [
+                    "afaid"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db6\u0dd2\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "worried"
+                ],
+                "mispellings": [
+                    "woried"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "fear",
+                    "frighten"
+                ],
+                "mispellings": [
+                    "fer",
+                    "fire"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db6\u0dd2\u0dba",
+                        "\u0db6\u0dd2\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "panic",
+                    "panicking",
+                    "panicked"
+                ],
+                "mispellings": [
+                    "panik",
+                    "paniked",
+                    "paniking"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db7\u0dd3\u0dad\u0dd2\u0dba",
+                        "\u0db7\u0dd3\u0dad\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0db1",
+                        "\u0db7\u0dd3\u0dad\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca/ \u0db7\u0dd3\u0dad\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "mad"
+                ],
+                "mispellings": [
+                    "md",
+                    "made"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0dd4"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "grief"
+                ],
+                "mispellings": [
+                    "greif",
+                    "griev"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc1\u0ddd\u0d9a\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "natural_disasters": [
+        {
+            "English": {
+                "keywords": [
+                    "fire",
+                    "wildfire"
+                ],
+                "mispellings": [
+                    "blaze",
+                    "burnt",
+                    "hot",
+                    "fir"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0dd2\u0db1\u0dca\u0db1",
+                        "\u0dbd\u0dd0\u0dc0\u0dca \u0d9c\u0dd2\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "earthquake",
+                    "Landslide",
+                    "collapse"
+                ],
+                "mispellings": [
+                    "shake",
+                    "irthquake",
+                    "earthquak",
+                    "fall"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db7\u0dd6\u0db8\u0dd2\u0d9a\u0db8\u0dca\u0db4\u0dcf\u0dc0",
+                        "\u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8",
+                        "\u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "flood",
+                    "flooded",
+                    "flooding",
+                    "monsoon"
+                ],
+                "mispellings": [
+                    "flud",
+                    "flod",
+                    "munson",
+                    "monson",
+                    "monsun"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb",
+                        "\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0d9c\u0dd0\u0dbd\u0dd4\u0dc0\u0dcf",
+                        "\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb \u0d9c\u0dd0\u0dbd\u0dd3\u0db8",
+                        "\u0db8\u0ddd\u0dc3\u0db8\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "smoke",
+                    "smoked"
+                ],
+                "mispellings": [
+                    "smooke",
+                    "smok"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0daf\u0dd4\u0db8",
+                        "\u0daf\u0dd4\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "typhoon",
+                    "hurricane",
+                    "tornado",
+                    "cyclone"
+                ],
+                "mispellings": [
+                    "storm",
+                    "rain",
+                    "water",
+                    "stormy"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0da7\u0dba\u0dd2\u0dc6\u0dd6\u0db1\u0dca",
+                        "\u0dc3\u0dd4\u0dc5\u0dd2 \u0d9a\u0dd4\u0dab\u0dcf\u0da7\u0dd4\u0dc0",
+                        "\u0da7\u0ddc\u0db1\u0dda\u0da9\u0ddd",
+                        "\u0dc3\u0dd4\u0dc5\u0dd2 \u0d9a\u0dd4\u0dab\u0dcf\u0da7\u0dd4\u0dc0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "droughts",
+                    "dry",
+                    "aridity"
+                ],
+                "mispellings": [
+                    "dri"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db1\u0dd2\u0dba\u0d9f",
+                        "\u0dc0\u0dd2\u0dba\u0dc5\u0dd2",
+                        "\u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0db6\u0dc0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "volcanic eruption",
+                    "volcano"
+                ],
+                "mispellings": [
+                    "fire",
+                    "hot"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9c\u0dd2\u0db1\u0dd2\u0d9a\u0db3\u0dd4 \u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dca",
+                        "\u0d9c\u0dd2\u0db1\u0dd2 \u0d9a\u0db1\u0dca\u0daf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "wind",
+                    "blast",
+                    "windy"
+                ],
+                "mispellings": [
+                    "air"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc3\u0dd4\u0dc5\u0d9f",
+                        "\u0db4\u0dd2\u0db4\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dc3\u0dd4\u0dc5\u0d82 \u0dc3\u0dc4\u0dd2\u0dad"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "violence": [
+        {
+            "English": {
+                "keywords": [
+                    "hit",
+                    "hitting",
+                    "hits"
+                ],
+                "mispellings": [
+                    "hitt",
+                    "hitin",
+                    "hittin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dc4\u0dbb",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb/ \u0db4\u0dc4\u0dbb \u0daf\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "beat",
+                    "beating",
+                    "beats"
+                ],
+                "mispellings": [
+                    "beetin",
+                    "beeting",
+                    "beets",
+                    "bet"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dc4\u0dbb",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb/ \u0db4\u0dc4\u0dbb \u0daf\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "abuse",
+                    "abusive",
+                    "abusing",
+                    "Abused"
+                ],
+                "mispellings": [
+                    "abuzin",
+                    "abuz",
+                    "buse"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba",
+                        "\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0dc4\u0dd2\u0dad",
+                        "\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0d85\u0db4\u0dba\u0ddd\u0da2\u0db1\u0dba\u0da7 \u0dbd\u0d9a\u0dca \u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violent",
+                    "violence"
+                ],
+                "mispellings": [
+                    "violnce",
+                    "vilent"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9",
+                        "\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pain",
+                    "painful",
+                    "pains",
+                    "paining"
+                ],
+                "mispellings": [
+                    "pen",
+                    "poen"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dda\u0daf\u0db1\u0dcf\u0dc0",
+                        "\u0dc0\u0dda\u0daf\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3",
+                        "\u0dc0\u0dda\u0daf\u0db1\u0dcf \u0daf\u0dd9\u0db1\u0dc0\u0dcf",
+                        "\u0dc0\u0dda\u0daf\u0db1\u0dcf \u0daf\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blood",
+                    "bleeding",
+                    "bled"
+                ],
+                "mispellings": [
+                    "blud",
+                    "bleding",
+                    "bleedding"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbd\u0dda",
+                        "\u0dbd\u0dda \u0d9c\u0dd0\u0dbd\u0dd3\u0db8",
+                        "\u0dbd\u0dda \u0d9c\u0dd0\u0dbd\u0dd4\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bruise",
+                    "bruising",
+                    "bruised"
+                ],
+                "mispellings": [
+                    "brusing",
+                    "brused",
+                    "broosed"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dad\u0dd0\u0dbd\u0dd3\u0db8",
+                        "\u0dad\u0dd0\u0dbd\u0dd3\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad",
+                        "\u0dad\u0dd0\u0dc5\u0dd4\u0dab\u0dd4 / \u0dad\u0dd0\u0dc5\u0dd4\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "hurt",
+                    "hurting",
+                    "hurts"
+                ],
+                "mispellings": [
+                    "hurted",
+                    "hurrt"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbb\u0dd2\u0daf\u0dd3\u0db8",
+                        "\u0dbb\u0dd2\u0daf\u0dc0\u0dd3\u0db8",
+                        "\u0dbb\u0dd2\u0daf\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ache",
+                    "aching",
+                    "ached"
+                ],
+                "mispellings": [
+                    "acked"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbb\u0dd2\u0daf\u0dd3\u0db8",
+                        "\u0dbb\u0dd2\u0daf\u0dc0\u0dd3\u0db8",
+                        "\u0dbb\u0dd2\u0daf\u0dd4\u0db1\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "injury",
+                    "injured"
+                ],
+                "mispellings": [
+                    "inguries"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+                        "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dc0\u0dd6/ \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cut",
+                    "cutting"
+                ],
+                "mispellings": [
+                    "cutt"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0dd0\u0db4\u0dd3\u0db8",
+                        "\u0d9a\u0dd0\u0db4\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harm",
+                    "harming",
+                    "harmful",
+                    "harmed"
+                ],
+                "mispellings": [
+                    "harrm",
+                    "harme",
+                    "haarm",
+                    "harmng"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc4\u0dcf\u0db1\u0dd2\u0dba",
+                        "\u0dc4\u0dcf\u0db1\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dc4\u0dcf\u0db1\u0dd2\u0d9a\u0dbb",
+                        "\u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca/ \u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "slap",
+                    "slapped",
+                    "slapping"
+                ],
+                "mispellings": [
+                    "slip",
+                    "slappping",
+                    "slaped",
+                    "slape"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0db8\u0dca\u0db8\u0dd4\u0dbd\u0dca \u0db4\u0dc4\u0dbb",
+                        "\u0d9a\u0db8\u0dca\u0db8\u0dd4\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf",
+                        "\u0d9a\u0db8\u0dca\u0db8\u0dd4\u0dbd\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "punch",
+                    "punched",
+                    "punching",
+                    "punches"
+                ],
+                "mispellings": [
+                    "panch",
+                    "pansh",
+                    "punsh"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kill",
+                    "killing",
+                    "killed",
+                    "kills"
+                ],
+                "mispellings": [
+                    "cill",
+                    "cills",
+                    "kilin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dd0\u0dbb\u0dd3\u0db8",
+                        "\u0db8\u0dbb\u0dcf \u0daf\u0dd0\u0db8\u0dd3\u0db8",
+                        "\u0db8\u0dbb\u0dcf \u0daf\u0dd0\u0db8\u0dca\u0db8\u0dcf",
+                        "\u0db8\u0dbb\u0dcf \u0daf\u0db8\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "murder",
+                    "murderer",
+                    "murdering",
+                    "murdered"
+                ],
+                "mispellings": [
+                    "merdered",
+                    "murd",
+                    "mrdered"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dd2\u0db1\u0dd3\u0db8\u0dd0\u0dbb\u0dd4\u0db8",
+                        "\u0db8\u0dd2\u0db1\u0dd3\u0db8\u0dbb\u0dd4\u0dc0\u0dcf",
+                        "\u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf/ \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "bang",
+                    "banging",
+                    "banged"
+                ],
+                "mispellings": [
+                    "baning",
+                    "bangin",
+                    "pang"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd2\u0dc4\u0dd2 \u0db4\u0dc4\u0dbb",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blow"
+                ],
+                "mispellings": [
+                    "below",
+                    "blo",
+                    "bow"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd2\u0db9\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cane"
+                ],
+                "mispellings": [
+                    "stick",
+                    "can"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dda\u0dc0\u0dd0\u0dbd"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "belt"
+                ],
+                "mispellings": [
+                    "girdle",
+                    "strap"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0da7\u0dd2\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "stab",
+                    "stabbing",
+                    "stabbed"
+                ],
+                "mispellings": [
+                    "sabbed",
+                    "satb",
+                    "stabing"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd2\u0dc4\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d87\u0db1\u0dd3\u0db8",
+                        "\u0db4\u0dd2\u0dc4\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d87\u0db1\u0dd3\u0db8/",
+                        "\u0db4\u0dd2\u0dc4\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d87\u0db1\u0dbd\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "scream",
+                    "screaming",
+                    "screamed"
+                ],
+                "mispellings": [
+                    "screem",
+                    "creamed",
+                    "screemed"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0dd1\u0d9c\u0dd0\u0dc3\u0dd3\u0db8",
+                        "\u0d9a\u0dd1\u0d9c\u0dd0\u0dc3\u0dd3\u0db8",
+                        "\u0d9a\u0dd1 \u0d9c\u0dd0\u0dc4\u0dd4\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "push",
+                    "pushing",
+                    "pushed"
+                ],
+                "mispellings": [
+                    "puss",
+                    "pusing"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "shove",
+                    "shoving",
+                    "shoved"
+                ],
+                "mispellings": [
+                    "shoove",
+                    "shooved",
+                    "shov"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "kick",
+                    "kicking",
+                    "kicked"
+                ],
+                "mispellings": [
+                    "kiked",
+                    "kik",
+                    "kickin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dba\u0dd2\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0dd3\u0db8",
+                        "\u0db4\u0dba\u0dd2\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0dd3\u0db8",
+                        "\u0db4\u0dba\u0dd2\u0db1\u0dca \u0d9c\u0dd0\u0dc4\u0dd4\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "strike",
+                    "striking",
+                    "stricked"
+                ],
+                "mispellings": [
+                    "strikd",
+                    "strik",
+                    "stricke"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8",
+                        "\u0db4\u0dc4\u0dbb \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "torture",
+                    "tortured",
+                    "torturing"
+                ],
+                "mispellings": [
+                    "torcher",
+                    "tocher",
+                    "torchered"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0db0\u0dc4\u0dd2\u0d82\u0dc3\u0dcf\u0dc0",
+                        "\u0dc0\u0db0\u0dc4\u0dd2\u0d82\u0dc3\u0dcf \u0d9a\u0dc5\u0dcf",
+                        "\u0dc0\u0db0\u0dc4\u0dd2\u0d82\u0dc3\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "throw",
+                    "throwing",
+                    "throws"
+                ],
+                "mispellings": [
+                    "trow",
+                    "trowing",
+                    "trows"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dd2\u0dc3\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dc0\u0dd2\u0dc3\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dc0\u0dd2\u0dc3\u0dd2 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "rape",
+                    "raping",
+                    "rapist"
+                ],
+                "mispellings": [
+                    "rapeing",
+                    "rapping",
+                    "raipe",
+                    "rap"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0daf\u0dd6\u0dc2\u0dab\u0dba",
+                        "\u0daf\u0dd6\u0dc2\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8/ \u0daf\u0dd6\u0dc2\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+                        "\u0daf\u0dd6\u0dc2\u0d9a\u0dba\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "violate",
+                    "violation",
+                    "violated"
+                ],
+                "mispellings": [
+                    "violat",
+                    "vilate",
+                    "volated"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0dab\u0dba",
+                        "\u0d8b\u0dbd\u0dca\u0dbd\u0d82\u0d9d\u0dab\u0dba \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "sex",
+                    "sexual",
+                    "sexually",
+                    "sext"
+                ],
+                "mispellings": [
+                    "sexting",
+                    "xxx",
+                    "ex"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba",
+                        "\u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a",
+                        "\u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a\u0dc0",
+                        "\u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "force",
+                    "forced",
+                    "forcing"
+                ],
+                "mispellings": [
+                    "forc",
+                    "forcin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db6\u0dbd \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0db6\u0dbd \u0d9a\u0dc5\u0dcf",
+                        "\u0db6\u0dbd \u0d9a\u0dbb\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "pressure",
+                    "pressured",
+                    "pressuring"
+                ],
+                "mispellings": [
+                    "perssure",
+                    "perssured",
+                    "presssure"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd3\u0da9\u0db1\u0dba",
+                        "\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dc5\u0dcf",
+                        "\u0db4\u0dd3\u0da9\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf/ \u0db4\u0dd3\u0da9\u0db1\u0d9a\u0dcf\u0dbb\u0dd3"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "coercive",
+                    "coerce",
+                    "coerced"
+                ],
+                "mispellings": [
+                    "coersive",
+                    "corrisive"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db6\u0dbd\u0dc4\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0dd3",
+                        "\u0db6\u0dbd\u0dc4\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0dba/ \u0db6\u0dbd\u0dc4\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca",
+                        "\u0db6\u0dbd\u0dc4\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "misconduct",
+                    "inappropriate",
+                    "unacceptable"
+                ],
+                "mispellings": [
+                    "miscund",
+                    "inappropiate"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0db1\u0dcf\u0da0\u0dcf\u0dbb\u0dba",
+                        "\u0db1\u0dd4\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4",
+                        "\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "harassment",
+                    "stalking",
+                    "perpetration"
+                ],
+                "mispellings": [
+                    "stolk"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc4\u0dd2\u0dbb\u0dd2\u0dc4\u0dd0\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
+                        "\u0dbd\u0dd4\u0dc4\u0dd4\u0db6\u0dd0\u0db3\u0dd3\u0db8",
+                        "\u0d85\u0db4\u0dbb\u0dcf\u0db0\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "blame",
+                    "blaming"
+                ],
+                "mispellings": [
+                    "blam"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0daf\u0ddc\u0dc3\u0dca \u0db4\u0dd0\u0dc0\u0dbb\u0dd3\u0db8",
+                        "\u0daf\u0ddc\u0dc3\u0dca \u0db4\u0dd0\u0dc0\u0dbb\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "help": [
+        {
+            "English": {
+                "keywords": [
+                    "HELP",
+                    "halp",
+                    "hep",
+                    "hlep"
+                ],
+                "mispellings": [
+                    "hellp"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d8b\u0daf\u0dc0\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "drugs": [
+        {
+            "English": {
+                "keywords": [
+                    "drugs",
+                    "drug"
+                ],
+                "mispellings": [
+                    "drog",
+                    "drogs"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba",
+                        "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "addict",
+                    "addiction",
+                    "dependence"
+                ],
+                "mispellings": [
+                    "adict",
+                    "adicted"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2 \u0dc0\u0dd6",
+                        "\u0d87\u0db6\u0dca\u0db6\u0dd0\u0dc4\u0dd2 \u0dc0\u0dd3\u0db8",
+                        "\u0dba\u0dd0\u0db4\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "cocaine",
+                    "coke",
+                    "blow",
+                    "charlie"
+                ],
+                "mispellings": [
+                    "crack",
+                    "white",
+                    "koke"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0ddc\u0d9a\u0dda\u0db1\u0dca",
+                        "\u0d9a\u0ddd\u0d9a\u0dca",
+                        "\u0db4\u0dc4\u0dbb",
+                        "\u0da0\u0dcf\u0dbd\u0dd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "heroine",
+                    "brown",
+                    "smack",
+                    "skag"
+                ],
+                "mispellings": [
+                    "hose",
+                    "hero",
+                    "fit",
+                    "fun"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca",
+                        "\u0daf\u0dd4\u0db9\u0dd4\u0dbb\u0dd4",
+                        "\u0dc3\u0dca\u0db8\u0dd0\u0d9a\u0dca",
+                        "\u0dc3\u0dca\u0d9a\u0dd0\u0d9c\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "high",
+                    "tipsy"
+                ],
+                "mispellings": [
+                    "hi",
+                    "tipsi",
+                    "tipisy",
+                    "tipisi",
+                    "haih"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d89\u0dc4\u0dc5",
+                        "\u0da7\u0dd2\u0db4\u0dca\u0dc3\u0dd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "overdose",
+                    "overdosed"
+                ],
+                "mispellings": [
+                    "overdos"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d85\u0db0\u0dd2\u0d9a \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0",
+                        "\u0d85\u0db0\u0dd2\u0d9a \u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca \u0d9c\u0dad\u0dca\u0dad\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "LSD",
+                    "acid",
+                    "cheer",
+                    "drop"
+                ],
+                "mispellings": [
+                    "hallucinogen",
+                    "psychedelic"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "LSD",
+                        "\u0d85\u0db8\u0dca\u0dbd\u0dba",
+                        "\u0db4\u0dca\u0dbb\u0dd3\u0dad\u0dd2 \u0dc0\u0db1\u0dca\u0db1",
+                        "\u0db6\u0dd2\u0d82\u0daf\u0dd4\u0dc0/ \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "magic mushrooms",
+                    "alice"
+                ],
+                "mispellings": [
+                    "shrooms"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dd0\u0da2\u0dd2\u0d9a\u0dca \u0dc4\u0dad\u0dd4",
+                        "\u0d87\u0dbd\u0dd2\u0dc3\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "alcohol",
+                    "booze",
+                    "drinks",
+                    "alcoholic"
+                ],
+                "mispellings": [
+                    "hooch",
+                    "alcol"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dad\u0dca \u0dc0\u0dad\u0dd4\u0dbb",
+                        "\u0db8\u0dad\u0dca \u0dc0\u0dad\u0dd4\u0dbb",
+                        "\u0db6\u0dd3\u0db8",
+                        "\u0db8\u0dad\u0dca \u0dc0\u0dad\u0dd4\u0dbb \u0dc3\u0dc4\u0dd2\u0dad"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "speed",
+                    "billy",
+                    "paste",
+                    "base"
+                ],
+                "mispellings": [
+                    "whizz",
+                    "amphetamine",
+                    "chasing the dragon",
+                    "dragon",
+                    "whiz",
+                    "uppers"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dda\u0d9c\u0dba",
+                        "\u0db6\u0dd2\u0dbd\u0dd3",
+                        "\u0dad\u0dbd\u0db4\u0dba/ \u0db4\u0dda\u0dc3\u0dca\u0da7\u0dca \u0d91\u0d9a",
+                        "\u0db4\u0daf\u0db1\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "poppers",
+                    "liquid gold",
+                    "jungle juice",
+                    "rush"
+                ],
+                "mispellings": [
+                    "buzz",
+                    "inhalant"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0ddc\u0db4\u0dbb\u0dca\u0dc3\u0dca",
+                        "\u0daf\u0dd2\u0dba\u0dbb \u0dbb\u0dad\u0dca\u0dad\u0dbb\u0db1\u0dca",
+                        "\u0d9a\u0dd0\u0dbd\u0dd1 \u0dba\u0dd4\u0dc2",
+                        "\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "weed",
+                    "cannabis",
+                    "Marijuana",
+                    "dope"
+                ],
+                "mispellings": [
+                    "grass",
+                    "pot",
+                    "CBD",
+                    "THC",
+                    "joint",
+                    "hashish"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dbd\u0dca\u0db4\u0dd0\u0dbd\u0dd1\u0da7\u0dd2",
+                        "\u0d9c\u0d82\u0da2\u0dcf",
+                        "\u0db8\u0dbb\u0dd2\u0da2\u0dd4\u0dc0\u0dcf\u0db1\u0dcf",
+                        "\u0db8\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ectasy",
+                    "brownies",
+                    "crystal",
+                    "mandy"
+                ],
+                "mispellings": [
+                    "md",
+                    "mdma",
+                    "molly",
+                    "pills"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d91\u0d9a\u0dca\u0da7\u0dd0\u0dc3\u0dd2",
+                        "\u0db6\u0dca\u200d\u0dbb\u0dc0\u0dca\u0db1\u0dd2",
+                        "\u0dc3\u0dca\u0db5\u0da7\u0dd2\u0d9a",
+                        "\u0db8\u0dd0\u0db1\u0dca\u0da9\u0dd2"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "crystal meth",
+                    "ice",
+                    "meth",
+                    "speed"
+                ],
+                "mispellings": [
+                    "crank"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc3\u0dca\u0db5\u0da7\u0dd2\u0d9a \u0db8\u0dd9\u0dad\u0dca",
+                        "\u0d85\u0dba\u0dd2\u0dc3\u0dca",
+                        "\u0db8\u0dd9\u0dad\u0dca",
+                        "\u0dc0\u0dda\u0d9c\u0dba"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "ketamine"
+                ],
+                "mispellings": [
+                    "ket"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d9a\u0dd9\u0da7\u0db8\u0dba\u0dd2\u0db1\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Morphine"
+                ],
+                "mispellings": [
+                    "morphin"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0ddd\u0dc6\u0dd2\u0db1\u0dca"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "Oxycodone",
+                    "Oxy",
+                    "Oxycotton",
+                    "OC"
+                ],
+                "mispellings": [
+                    "kicker",
+                    "hillbilly"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd\u0da9\u0ddd\u0db1\u0dca",
+                        "\u0d94\u0d9a\u0dca\u0dc3\u0dd2",
+                        "\u0d94\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddc\u0da7\u0db1\u0dca",
+                        "OC"
+                    ],
+                    "mispellings": []
+                }
+            }
+        },
+        {
+            "English": {
+                "keywords": [
+                    "rehabilitation",
+                    "detoxification"
+                ],
+                "mispellings": [
+                    "rehab"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd4\u0db1\u0dbb\u0dd4\u0dad\u0dca\u0dae\u0dcf\u0db4\u0db1\u0dba",
+                        "\u0dc0\u0dd2\u0dc2 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "menu": [
+        {
+            "English": {
+                "keywords": [
+                    "MENU",
+                    "Menue",
+                    "meny",
+                    "manu"
+                ],
+                "mispellings": [
+                    "meun"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db8\u0dd9\u0db1\u0dd4\u0dc0"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "play": [
+        {
+            "English": {
+                "keywords": [
+                    "PLAY",
+                    "paly",
+                    "pla",
+                    "pley"
+                ],
+                "mispellings": [
+                    "plaay"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1/ \u0d9a\u0dca\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "grow": [
+        {
+            "English": {
+                "keywords": [
+                    "GROW",
+                    "grwo",
+                    "gorw",
+                    "gow"
+                ],
+                "mispellings": [
+                    "gro",
+                    "frow",
+                    "qrow"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db1\u0dc0\u0dcf"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "stop": [
+        {
+            "English": {
+                "keywords": [
+                    "STOP",
+                    "stup",
+                    "stopp",
+                    "stoop"
+                ],
+                "mispellings": [
+                    "spot",
+                    "stpo"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ],
+    "start": [
+        {
+            "English": {
+                "keywords": [
+                    "START",
+                    "Styat",
+                    "strat",
+                    "startd"
+                ],
+                "mispellings": [
+                    "steet"
+                ]
+            },
+            "Translation": {
+                "sin": {
+                    "keywords": [
+                        "\u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+                    ],
+                    "mispellings": []
+                }
+            }
+        }
+    ]
+}
